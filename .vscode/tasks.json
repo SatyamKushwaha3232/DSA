@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Compile and Run",
+      "type": "shell",
+      "command": "cmd",
+      "args": [
+        "/c",
+        "g++ program.cpp -o program && program.exe < input.txt > output.txt"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"],
+      "presentation": {
+        "reveal": "never",   // 👈 terminal नहीं खुलेगा
+        "panel": "shared",
+        "focus": false,
+        "clear": true
+      }
+    }
+  ]
+}
