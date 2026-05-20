@@ -1,0 +1,156 @@
+<div align="center">
+
+# 📘 DSA Learning Journey
+### From Basic ➜ Advanced 🚀
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Structures+%26+Algorithms;Problem+Solving+Journey;From+Beginner+to+Advanced;Consistency+%2B+Practice+%3D+Success" />
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/DSA-Learning-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Beginner_to_Advanced-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/SatyamKushwaha3232?style=for-the-badge" />
+</p>
+
+</div>
+
+---
+
+# 🌟 About This Repository
+
+This repository contains my complete **Data Structures & Algorithms Journey** from **Basic to Advanced**.
+
+I am learning:
+- 📌 Problem Solving
+- 📌 Data Structures
+- 📌 Algorithms
+- 📌 Competitive Programming
+- 📌 Interview Preparation
+
+The goal of this repository is:
+- ✅ Build strong DSA fundamentals
+- ✅ Practice coding daily
+- ✅ Track progress consistently
+- ✅ Prepare for Product Based Companies
+- ✅ Crack coding interviews
+
+---
+
+# 🗂️ DSA Folder Structure
+
+```bash
+DSA/
+│
+├── 01_Basics/
+│   ├── Input_Output
+│   ├── Variables
+│   ├── Operators
+│   ├── Conditionals
+│   ├── Loops
+│   └── Functions
+│
+├── 02_Time_Complexity/
+│   ├── Big_O
+│   ├── Best_Worst_Average
+│   └── Complexity_Problems
+│
+├── 03_Arrays/
+│   ├── Basic_Problems
+│   ├── Medium_Problems
+│   ├── Kadane_Algorithm
+│   ├── Prefix_Sum
+│   └── Sliding_Window
+│
+├── 04_Strings/
+│   ├── String_Basics
+│   ├── Palindrome
+│   ├── Pattern_Matching
+│   └── Anagram
+│
+├── 05_Searching/
+│   ├── Linear_Search
+│   ├── Binary_Search
+│   └── Search_Problems
+│
+├── 06_Sorting/
+│   ├── Bubble_Sort
+│   ├── Selection_Sort
+│   ├── Insertion_Sort
+│   ├── Merge_Sort
+│   ├── Quick_Sort
+│   └── Heap_Sort
+│
+├── 07_Recursion/
+│   ├── Basic_Recursion
+│   ├── Backtracking
+│   └── Recursion_Problems
+│
+├── 08_Linked_List/
+│   ├── Singly_Linked_List
+│   ├── Doubly_Linked_List
+│   ├── Circular_Linked_List
+│   └── Problems
+│
+├── 09_Stack/
+│   ├── Stack_Using_Array
+│   ├── Stack_Using_LL
+│   └── Problems
+│
+├── 10_Queue/
+│   ├── Simple_Queue
+│   ├── Circular_Queue
+│   ├── Deque
+│   └── Problems
+│
+├── 11_Hashing/
+│   ├── HashMap
+│   ├── HashSet
+│   └── Frequency_Problems
+│
+├── 12_Trees/
+│   ├── Binary_Tree
+│   ├── BST
+│   ├── Tree_Traversal
+│   ├── Heap
+│   └── Trie
+│
+├── 13_Graphs/
+│   ├── BFS
+│   ├── DFS
+│   ├── Shortest_Path
+│   ├── MST
+│   └── Topological_Sort
+│
+├── 14_Dynamic_Programming/
+│   ├── Memoization
+│   ├── Tabulation
+│   ├── DP_Problems
+│   └── Advanced_DP
+│
+├── 15_Greedy/
+│   ├── Activity_Selection
+│   ├── Fractional_Knapsack
+│   └── Huffman_Coding
+│
+├── 16_Bit_Manipulation/
+│   ├── Basics
+│   ├── Tricks
+│   └── Problems
+│
+├── 17_Advanced_Algorithms/
+│   ├── Segment_Tree
+│   ├── Fenwick_Tree
+│   ├── Disjoint_Set
+│   ├── KMP
+│   ├── Rabin_Karp
+│   └── Manacher
+│
+├── 18_Competitive_Programming/
+│   ├── Codeforces
+│   ├── LeetCode
+│   ├── CodeChef
+│   └── Contests
+│
+└── README.md
