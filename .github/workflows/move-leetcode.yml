@@ -1,0 +1,43 @@
+name: Move LeetHub Problems
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  move:
+    runs-on: ubuntu-latest
+
+    if: ${{ !contains(github.event.head_commit.message, 'Move LeetHub problems') }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Move LeetHub folders into Leetcode_Problems
+        run: |
+          mkdir -p Leetcode_Problems
+
+          for dir in */ ; do
+            name="${dir%/}"
+
+            if [[ "$name" =~ ^[0-9]+- ]]; then
+              echo "Moving $name"
+              mkdir -p "Leetcode_Problems/$name"
+              shopt -s dotglob
+              mv "$name"/* "Leetcode_Problems/$name/" || true
+              rmdir "$name" || true
+            fi
+          done
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add .
+          git diff --cached --quiet || git commit -m "Move LeetHub problems into Leetcode_Problems"
+          git push
