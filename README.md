@@ -191,6 +191,7 @@ DSA/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SatyamKushwaha3232/DSA/tree/master/0005-longest-palindromic-substring) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SatyamKushwaha3232/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -222,4 +223,8 @@ DSA/
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3614-process-string-with-special-operations-ii) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SatyamKushwaha3232/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
