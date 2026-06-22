@@ -174,6 +174,7 @@ DSA/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SatyamKushwaha3232/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [1732-find-the-highest-altitude](https://github.com/SatyamKushwaha3232/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/SatyamKushwaha3232/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/SatyamKushwaha3232/DSA/tree/master/1840-maximum-building-height) |
 ## Binary Search
@@ -209,4 +210,8 @@ DSA/
 |  |
 | ------- |
 | [1840-maximum-building-height](https://github.com/SatyamKushwaha3232/DSA/tree/master/1840-maximum-building-height) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/SatyamKushwaha3232/DSA/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
