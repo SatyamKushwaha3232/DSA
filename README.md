@@ -166,6 +166,7 @@ DSA/
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SatyamKushwaha3232/DSA/tree/master/0005-longest-palindromic-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/SatyamKushwaha3232/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [3614-process-string-with-special-operations-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 ## Counting
 |  |
 | ------- |
@@ -215,4 +216,8 @@ DSA/
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/SatyamKushwaha3232/DSA/tree/master/1732-find-the-highest-altitude) |
+## Simulation
+|  |
+| ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 <!---LeetCode Topics End-->
