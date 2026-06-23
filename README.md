@@ -197,6 +197,7 @@ DSA/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SatyamKushwaha3232/DSA/tree/master/0005-longest-palindromic-substring) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -219,6 +220,7 @@ DSA/
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/SatyamKushwaha3232/DSA/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Simulation
 |  |
 | ------- |
