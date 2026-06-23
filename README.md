@@ -180,6 +180,7 @@ DSA/
 | [1732-find-the-highest-altitude](https://github.com/SatyamKushwaha3232/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/SatyamKushwaha3232/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/SatyamKushwaha3232/DSA/tree/master/1840-maximum-building-height) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3838-weighted-word-mapping](https://github.com/SatyamKushwaha3232/DSA/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
@@ -199,6 +200,7 @@ DSA/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SatyamKushwaha3232/DSA/tree/master/0005-longest-palindromic-substring) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
@@ -218,6 +220,7 @@ DSA/
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SatyamKushwaha3232/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/SatyamKushwaha3232/DSA/tree/master/1840-maximum-building-height) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -238,4 +241,16 @@ DSA/
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SatyamKushwaha3232/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Tree
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 <!---LeetCode Topics End-->
