@@ -233,6 +233,7 @@ DSA/
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -264,6 +265,7 @@ DSA/
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -323,6 +325,7 @@ DSA/
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SatyamKushwaha3232/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
 |  |
 | ------- |
