@@ -198,6 +198,7 @@ DSA/
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -209,6 +210,7 @@ DSA/
 | [0004-median-of-two-sorted-arrays](https://github.com/SatyamKushwaha3232/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -223,6 +225,7 @@ DSA/
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SatyamKushwaha3232/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SatyamKushwaha3232/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -237,6 +240,7 @@ DSA/
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SatyamKushwaha3232/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SatyamKushwaha3232/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sorting
@@ -247,6 +251,7 @@ DSA/
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SatyamKushwaha3232/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SatyamKushwaha3232/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting Sort
 |  |
 | ------- |
