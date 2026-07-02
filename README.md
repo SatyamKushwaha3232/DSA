@@ -162,6 +162,7 @@ DSA/
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/SatyamKushwaha3232/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyamKushwaha3232/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SatyamKushwaha3232/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SatyamKushwaha3232/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -190,6 +191,7 @@ DSA/
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SatyamKushwaha3232/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatyamKushwaha3232/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SatyamKushwaha3232/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SatyamKushwaha3232/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SatyamKushwaha3232/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -279,6 +281,7 @@ DSA/
 ## Tree
 |  |
 | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SatyamKushwaha3232/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
@@ -333,4 +336,8 @@ DSA/
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SatyamKushwaha3232/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
