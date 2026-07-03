@@ -236,6 +236,7 @@ DSA/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SatyamKushwaha3232/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0788-rotated-digits](https://github.com/SatyamKushwaha3232/DSA/tree/master/0788-rotated-digits) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/SatyamKushwaha3232/DSA/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -269,6 +270,7 @@ DSA/
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SatyamKushwaha3232/DSA/tree/master/0048-rotate-image) |
+| [0788-rotated-digits](https://github.com/SatyamKushwaha3232/DSA/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SatyamKushwaha3232/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/SatyamKushwaha3232/DSA/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
