@@ -170,6 +170,7 @@ DSA/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SatyamKushwaha3232/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0796-rotate-string](https://github.com/SatyamKushwaha3232/DSA/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/SatyamKushwaha3232/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyamKushwaha3232/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatyamKushwaha3232/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -375,4 +376,8 @@ DSA/
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/SatyamKushwaha3232/DSA/tree/master/3620-network-recovery-pathways) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/SatyamKushwaha3232/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
