@@ -185,6 +185,7 @@ DSA/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SatyamKushwaha3232/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/SatyamKushwaha3232/DSA/tree/master/0048-rotate-image) |
 | [1732-find-the-highest-altitude](https://github.com/SatyamKushwaha3232/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/SatyamKushwaha3232/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/SatyamKushwaha3232/DSA/tree/master/1840-maximum-building-height) |
@@ -266,6 +267,7 @@ DSA/
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SatyamKushwaha3232/DSA/tree/master/0048-rotate-image) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SatyamKushwaha3232/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/SatyamKushwaha3232/DSA/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -352,6 +354,7 @@ DSA/
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SatyamKushwaha3232/DSA/tree/master/0048-rotate-image) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
