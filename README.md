@@ -190,6 +190,7 @@ DSA/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SatyamKushwaha3232/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SatyamKushwaha3232/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/SatyamKushwaha3232/DSA/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/SatyamKushwaha3232/DSA/tree/master/0396-rotate-function) |
 | [1288-remove-covered-intervals](https://github.com/SatyamKushwaha3232/DSA/tree/master/1288-remove-covered-intervals) |
@@ -226,6 +227,7 @@ DSA/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SatyamKushwaha3232/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SatyamKushwaha3232/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
