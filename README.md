@@ -304,6 +304,7 @@ DSA/
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SatyamKushwaha3232/DSA/tree/master/0048-rotate-image) |
+| [0319-bulb-switcher](https://github.com/SatyamKushwaha3232/DSA/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/SatyamKushwaha3232/DSA/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/SatyamKushwaha3232/DSA/tree/master/0788-rotated-digits) |
@@ -459,4 +460,8 @@ DSA/
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/0509-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/SatyamKushwaha3232/DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
