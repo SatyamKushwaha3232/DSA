@@ -259,6 +259,7 @@ DSA/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SatyamKushwaha3232/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/SatyamKushwaha3232/DSA/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/SatyamKushwaha3232/DSA/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/SatyamKushwaha3232/DSA/tree/master/0788-rotated-digits) |
@@ -304,6 +305,7 @@ DSA/
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SatyamKushwaha3232/DSA/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/SatyamKushwaha3232/DSA/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/SatyamKushwaha3232/DSA/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/SatyamKushwaha3232/DSA/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/0509-fibonacci-number) |
@@ -459,6 +461,7 @@ DSA/
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SatyamKushwaha3232/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/0509-fibonacci-number) |
 ## Brainteaser
 |  |
