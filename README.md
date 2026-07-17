@@ -71,8 +71,8 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 66 |
-| Solved tracked in stats | 63 |
-| Easy | 14 |
+| Solved tracked in stats | 64 |
+| Easy | 15 |
 | Medium | 35 |
 | Hard | 14 |
 | C++ LeetCode folders | 65 |
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 1137-n-th-tribonacci-number | [Java](DSA%20with%20Java/LeetCode/1137-n-th-tribonacci-number) |
 | 3312-sorted-gcd-pair-queries | [C++](DSA%20with%20CPP/LeetCode/3312-sorted-gcd-pair-queries) / [Java](DSA%20with%20Java/LeetCode/3312-sorted-gcd-pair-queries) |
 | 0746-min-cost-climbing-stairs | [C++](DSA%20with%20CPP/LeetCode/0746-min-cost-climbing-stairs) |
 | 0070-climbing-stairs | [C++](DSA%20with%20CPP/LeetCode/0070-climbing-stairs) |
 | 0319-bulb-switcher | [C++](DSA%20with%20CPP/LeetCode/0319-bulb-switcher) |
-| 0509-fibonacci-number | [C++](DSA%20with%20CPP/LeetCode/0509-fibonacci-number) / [Java](DSA%20with%20Java/LeetCode/0509-fibonacci-number) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
