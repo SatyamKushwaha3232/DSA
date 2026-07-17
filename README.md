@@ -67,12 +67,34 @@ Each problem folder may include:
 
 ## Progress Snapshot
 
+<!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| C++ LeetCode folders | 64 |
-| Java LeetCode folders | 1 |
+| Total LeetCode problems | 65 |
+| Solved tracked in stats | 63 |
+| Easy | 14 |
+| Medium | 35 |
+| Hard | 14 |
+| C++ LeetCode folders | 65 |
+| Java LeetCode folders | 2 |
+| C++ solution files | 65 |
+| Java solution files | 2 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
+| Last updated | 2026-07-17 |
+<!-- AUTO-STATS:END -->
+
+## Latest LeetCode Additions
+
+<!-- LATEST-PROBLEMS:START -->
+| Problem | Solution |
+| --- | --- |
+| 3312-sorted-gcd-pair-queries | [C++](DSA%20with%20CPP/LeetCode/3312-sorted-gcd-pair-queries) / [Java](DSA%20with%20Java/LeetCode/3312-sorted-gcd-pair-queries) |
+| 0746-min-cost-climbing-stairs | [C++](DSA%20with%20CPP/LeetCode/0746-min-cost-climbing-stairs) |
+| 0070-climbing-stairs | [C++](DSA%20with%20CPP/LeetCode/0070-climbing-stairs) |
+| 0319-bulb-switcher | [C++](DSA%20with%20CPP/LeetCode/0319-bulb-switcher) |
+| 0509-fibonacci-number | [C++](DSA%20with%20CPP/LeetCode/0509-fibonacci-number) / [Java](DSA%20with%20Java/LeetCode/0509-fibonacci-number) |
+<!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
 
