@@ -1,159 +1,161 @@
-<div align="center">
+# DSA Learning Journey
 
-# 📘 DSA Learning Journey
-### From Basic ➜ Advanced 🚀
+![C++](https://img.shields.io/badge/C++-Primary-blue?style=for-the-badge&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-Practice-orange?style=for-the-badge&logo=openjdk)
+![LeetCode](https://img.shields.io/badge/LeetCode-Automated-black?style=for-the-badge&logo=leetcode)
+![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Structures+%26+Algorithms;Problem+Solving+Journey;From+Beginner+to+Advanced;Consistency+%2B+Practice+%3D+Success" />
+This repository tracks my Data Structures and Algorithms practice in a structured way. It contains topic-wise DSA implementations, sorting and pattern practice, and automatically organized LeetCode submissions.
 
----
+The goal is simple: build strong fundamentals, solve problems consistently, and keep a clean record of progress for interview preparation.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/DSA-Learning-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Level-Beginner_to_Advanced-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/SatyamKushwaha3232?style=for-the-badge" />
-</p>
+## Repository Highlights
 
-</div>
+| Area | Description |
+| --- | --- |
+| Core DSA | Topic-wise learning and implementation practice |
+| LeetCode | Accepted submissions organized by language and platform |
+| Sorting | Basic sorting algorithms written for revision |
+| Pattern Practice | C++ pattern problems and output-building exercises |
+| Automation | LeetHub uploads are organized automatically through GitHub Actions |
 
----
+## Current Structure
 
-# 🌟 About This Repository
-
-This repository contains my complete **Data Structures & Algorithms Journey** from **Basic to Advanced**.
-
-I am learning:
-- 📌 Problem Solving
-- 📌 Data Structures
-- 📌 Algorithms
-- 📌 Competitive Programming
-- 📌 Interview Preparation
-
-The goal of this repository is:
-- ✅ Build strong DSA fundamentals
-- ✅ Practice coding daily
-- ✅ Track progress consistently
-- ✅ Prepare for Product Based Companies
-- ✅ Crack coding interviews
-
----
-
-# 🗂️ DSA Folder Structure
-
-```bash
+```text
 DSA/
-│
-├── 01_Basics/
-│   ├── Input_Output
-│   ├── Variables
-│   ├── Operators
-│   ├── Conditionals
-│   ├── Loops
-│   └── Functions
-│
-├── 02_Time_Complexity/
-│   ├── Big_O
-│   ├── Best_Worst_Average
-│   └── Complexity_Problems
-│
-├── 03_Arrays/
-│   ├── Basic_Problems
-│   ├── Medium_Problems
-│   ├── Kadane_Algorithm
-│   ├── Prefix_Sum
-│   └── Sliding_Window
-│
-├── 04_Strings/
-│   ├── String_Basics
-│   ├── Palindrome
-│   ├── Pattern_Matching
-│   └── Anagram
-│
-├── 05_Searching/
-│   ├── Linear_Search
-│   ├── Binary_Search
-│   └── Search_Problems
-│
-├── 06_Sorting/
-│   ├── Bubble_Sort
-│   ├── Selection_Sort
-│   ├── Insertion_Sort
-│   ├── Merge_Sort
-│   ├── Quick_Sort
-│   └── Heap_Sort
-│
-├── 07_Recursion/
-│   ├── Basic_Recursion
-│   ├── Backtracking
-│   └── Recursion_Problems
-│
-├── 08_Linked_List/
-│   ├── Singly_Linked_List
-│   ├── Doubly_Linked_List
-│   ├── Circular_Linked_List
-│   └── Problems
-│
-├── 09_Stack/
-│   ├── Stack_Using_Array
-│   ├── Stack_Using_LL
-│   └── Problems
-│
-├── 10_Queue/
-│   ├── Simple_Queue
-│   ├── Circular_Queue
-│   ├── Deque
-│   └── Problems
-│
-├── 11_Hashing/
-│   ├── HashMap
-│   ├── HashSet
-│   └── Frequency_Problems
-│
-├── 12_Trees/
-│   ├── Binary_Tree
-│   ├── BST
-│   ├── Tree_Traversal
-│   ├── Heap
-│   └── Trie
-│
-├── 13_Graphs/
-│   ├── BFS
-│   ├── DFS
-│   ├── Shortest_Path
-│   ├── MST
-│   └── Topological_Sort
-│
-├── 14_Dynamic_Programming/
-│   ├── Memoization
-│   ├── Tabulation
-│   ├── DP_Problems
-│   └── Advanced_DP
-│
-├── 15_Greedy/
-│   ├── Activity_Selection
-│   ├── Fractional_Knapsack
-│   └── Huffman_Coding
-│
-├── 16_Bit_Manipulation/
-│   ├── Basics
-│   ├── Tricks
-│   └── Problems
-│
-├── 17_Advanced_Algorithms/
-│   ├── Segment_Tree
-│   ├── Fenwick_Tree
-│   ├── Disjoint_Set
-│   ├── KMP
-│   ├── Rabin_Karp
-│   └── Manacher
-│
-├── 18_Competitive_Programming/
-│   ├── Codeforces
-│   ├── LeetCode
-│   ├── CodeChef
-│   └── Contests
-│
-└── README.md
+|-- DSA with CPP/
+|   `-- LeetCode/
+|       |-- 0004-median-of-two-sorted-arrays/
+|       |-- 0005-longest-palindromic-substring/
+|       |-- ...
+|
+|-- DSA with Java/
+|   `-- LeetCode/
+|       `-- 0509-fibonacci-number/
+|
+|-- Sorting/
+|   |-- BUBBLE_SORT.cpp
+|   `-- SELECTION_SORT.cpp
+|
+|-- Pattern/
+|   `-- PATTERN.cpp
+|
+|-- .github/
+|   `-- workflows/
+|       `-- move-leetcode.yml
+|
+`-- README.md
+```
+
+## LeetCode Organization
+
+LeetCode submissions are grouped first by language and then by problem:
+
+```text
+DSA with CPP/LeetCode/<problem-slug>/<solution-file>.cpp
+DSA with Java/LeetCode/<problem-slug>/<solution-file>.java
+```
+
+Each problem folder may include:
+
+| File | Purpose |
+| --- | --- |
+| `README.md` | Problem statement and metadata generated by LeetHub |
+| `<problem-name>.cpp` | C++ accepted solution |
+| `<problem-name>.java` | Java accepted solution |
+| `NOTES.md` | Optional personal notes |
+
+## Progress Snapshot
+
+| Category | Count |
+| --- | ---: |
+| C++ LeetCode folders | 64 |
+| Java LeetCode folders | 1 |
+| Sorting implementations | 2 |
+| Pattern practice files | 1 |
+
+## Learning Roadmap
+
+### Fundamentals
+
+- Input/output and variables
+- Conditionals and loops
+- Functions and recursion basics
+- Time and space complexity
+
+### Core Data Structures
+
+- Arrays and strings
+- Linked lists
+- Stacks and queues
+- Hashing
+- Trees and binary search trees
+- Graphs
+
+### Algorithms
+
+- Searching and sorting
+- Two pointers and sliding window
+- Recursion and backtracking
+- Greedy algorithms
+- Dynamic programming
+- Graph traversal and shortest paths
+- Bit manipulation
+
+### Interview Practice
+
+- LeetCode problem solving
+- Topic-wise revision
+- Pattern recognition
+- Complexity analysis
+- Clean code and readable explanations
+
+## Automation
+
+This repository uses a GitHub Actions workflow to keep LeetHub uploads organized.
+
+When LeetHub pushes a new problem folder to the repository root, the workflow checks the solution language and moves it to the correct location:
+
+| Detected file | Destination |
+| --- | --- |
+| `.cpp` | `DSA with CPP/LeetCode/` |
+| `.java` | `DSA with Java/LeetCode/` |
+
+Workflow file:
+
+```text
+.github/workflows/move-leetcode.yml
+```
+
+## How To Navigate
+
+- Use `DSA with CPP/LeetCode/` for C++ LeetCode solutions.
+- Use `DSA with Java/LeetCode/` for Java LeetCode solutions.
+- Use `Sorting/` for standalone sorting algorithm implementations.
+- Use `Pattern/` for pattern-printing practice.
+- Use the topic index below when it is updated by LeetHub.
+
+## Naming Convention
+
+| Item | Convention |
+| --- | --- |
+| LeetCode folder | `<problem-number>-<problem-slug>` |
+| C++ solution | `<problem-number>-<problem-slug>.cpp` |
+| Java solution | `<problem-number>-<problem-slug>.java` |
+| Topic folders | Clear descriptive names |
+
+## Notes
+
+- This repository is a learning log, so the structure may evolve as the roadmap grows.
+- Older solutions are kept for progress tracking and revision.
+- New LeetCode submissions should be added through the configured LeetHub flow.
+
+## Author
+
+**Satyam Kushwaha**  
+GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
+
+---
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -481,3 +483,4 @@ DSA/
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/SatyamKushwaha3232/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
+
