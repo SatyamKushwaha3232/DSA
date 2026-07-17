@@ -1,4 +1,4 @@
-name: Move LeetHub Problems
+name: Organize LeetHub Problems
 
 on:
   push:
@@ -12,25 +12,49 @@ jobs:
   move:
     runs-on: ubuntu-latest
 
-    if: ${{ !contains(github.event.head_commit.message, 'Move LeetHub problems') }}
+    if: ${{ !contains(github.event.head_commit.message, 'Organize LeetHub problems') }}
 
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Move LeetHub folders into Leetcode_Problems
+      - name: Move LeetHub folders by language
         run: |
-          mkdir -p Leetcode_Problems
+          mkdir -p "DSA with CPP/LeetCode"
+          mkdir -p "DSA with Java/LeetCode"
 
           for dir in */ ; do
             name="${dir%/}"
 
             if [[ "$name" =~ ^[0-9]+- ]]; then
-              echo "Moving $name"
-              mkdir -p "Leetcode_Problems/$name"
-              shopt -s dotglob
-              mv "$name"/* "Leetcode_Problems/$name/" || true
+              cpp_target=""
+              java_target=""
+              if compgen -G "$name/*.cpp" > /dev/null; then
+                cpp_target="DSA with CPP/LeetCode/$name"
+                mkdir -p "$cpp_target"
+                echo "Moving C++ files from $name to $cpp_target"
+                mv "$name"/*.cpp "$cpp_target/" || true
+                [[ -f "$name/README.md" ]] && cp "$name/README.md" "$cpp_target/README.md"
+                [[ -f "$name/NOTES.md" ]] && cp "$name/NOTES.md" "$cpp_target/NOTES.md"
+              fi
+
+              if compgen -G "$name/*.java" > /dev/null; then
+                java_target="DSA with Java/LeetCode/$name"
+                mkdir -p "$java_target"
+                echo "Moving Java files from $name to $java_target"
+                mv "$name"/*.java "$java_target/" || true
+                [[ -f "$name/README.md" ]] && cp "$name/README.md" "$java_target/README.md"
+                [[ -f "$name/NOTES.md" ]] && cp "$name/NOTES.md" "$java_target/NOTES.md"
+              fi
+
+              if [[ -z "$java_target" && -n "$cpp_target" ]]; then
+                shopt -s dotglob
+                mv "$name"/* "$cpp_target/" || true
+              elif [[ -z "$cpp_target" && -n "$java_target" ]]; then
+                shopt -s dotglob
+                mv "$name"/* "$java_target/" || true
+              fi
               rmdir "$name" || true
             fi
           done
@@ -43,7 +67,7 @@ jobs:
           git add .
           git diff --cached --quiet && exit 0
 
-          git commit -m "Move LeetHub problems into Leetcode_Problems"
+          git commit -m "Organize LeetHub problems by language"
 
           git pull --rebase origin main
           git push origin main
