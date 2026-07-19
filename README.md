@@ -71,8 +71,8 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 68 |
-| Solved tracked in stats | 64 |
-| Easy | 15 |
+| Solved tracked in stats | 65 |
+| Easy | 16 |
 | Medium | 35 |
 | Hard | 14 |
 | C++ LeetCode folders | 66 |
@@ -81,7 +81,7 @@ Each problem folder may include:
 | Java solution files | 4 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-07-18 |
+| Last updated | 2026-07-19 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 1979-find-greatest-common-divisor-of-array | [Java](DSA%20with%20Java/LeetCode/1979-find-greatest-common-divisor-of-array) |
+| 0062-unique-paths | [C++](DSA%20with%20CPP/LeetCode/0062-unique-paths) |
 | 1137-n-th-tribonacci-number | [Java](DSA%20with%20Java/LeetCode/1137-n-th-tribonacci-number) |
 | 3312-sorted-gcd-pair-queries | [C++](DSA%20with%20CPP/LeetCode/3312-sorted-gcd-pair-queries) / [Java](DSA%20with%20Java/LeetCode/3312-sorted-gcd-pair-queries) |
 | 0746-min-cost-climbing-stairs | [C++](DSA%20with%20CPP/LeetCode/0746-min-cost-climbing-stairs) |
-| 0070-climbing-stairs | [C++](DSA%20with%20CPP/LeetCode/0070-climbing-stairs) |
-| 0319-bulb-switcher | [C++](DSA%20with%20CPP/LeetCode/0319-bulb-switcher) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
