@@ -71,14 +71,14 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 70 |
-| Solved tracked in stats | 66 |
+| Solved tracked in stats | 67 |
 | Easy | 16 |
-| Medium | 36 |
+| Medium | 37 |
 | Hard | 14 |
 | C++ LeetCode folders | 68 |
-| Java LeetCode folders | 5 |
+| Java LeetCode folders | 6 |
 | C++ solution files | 68 |
-| Java solution files | 5 |
+| Java solution files | 6 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
 | Last updated | 2026-07-19 |
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 0063-unique-paths-ii | [C++](DSA%20with%20CPP/LeetCode/0063-unique-paths-ii) / [Java](DSA%20with%20Java/LeetCode/0063-unique-paths-ii) |
 | 1081-smallest-subsequence-of-distinct-characters | [C++](DSA%20with%20CPP/LeetCode/1081-smallest-subsequence-of-distinct-characters) / [Java](DSA%20with%20Java/LeetCode/1081-smallest-subsequence-of-distinct-characters) |
 | 1979-find-greatest-common-divisor-of-array | [Java](DSA%20with%20Java/LeetCode/1979-find-greatest-common-divisor-of-array) |
 | 0062-unique-paths | [C++](DSA%20with%20CPP/LeetCode/0062-unique-paths) |
 | 1137-n-th-tribonacci-number | [Java](DSA%20with%20Java/LeetCode/1137-n-th-tribonacci-number) |
-| 3312-sorted-gcd-pair-queries | [C++](DSA%20with%20CPP/LeetCode/3312-sorted-gcd-pair-queries) / [Java](DSA%20with%20Java/LeetCode/3312-sorted-gcd-pair-queries) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
