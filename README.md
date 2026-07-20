@@ -222,6 +222,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0063-unique-paths-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/0063-unique-paths-ii) |
 | [0396-rotate-function](https://github.com/SatyamKushwaha3232/DSA/tree/master/0396-rotate-function) |
 | [0746-min-cost-climbing-stairs](https://github.com/SatyamKushwaha3232/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1260-shift-2d-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SatyamKushwaha3232/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SatyamKushwaha3232/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/SatyamKushwaha3232/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -375,6 +376,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SatyamKushwaha3232/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3612-process-string-with-special-operations-i) |
@@ -458,6 +460,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | ------- |
 | [0048-rotate-image](https://github.com/SatyamKushwaha3232/DSA/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/0063-unique-paths-ii) |
+| [1260-shift-2d-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SatyamKushwaha3232/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/SatyamKushwaha3232/DSA/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/1914-cyclically-rotating-a-grid) |
