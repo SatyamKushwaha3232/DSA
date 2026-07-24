@@ -71,9 +71,9 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 74 |
-| Solved tracked in stats | 70 |
+| Solved tracked in stats | 71 |
 | Easy | 17 |
-| Medium | 38 |
+| Medium | 39 |
 | Hard | 15 |
 | C++ LeetCode folders | 72 |
 | Java LeetCode folders | 7 |
@@ -81,7 +81,7 @@ Each problem folder may include:
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-07-23 |
+| Last updated | 2026-07-24 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3513-number-of-unique-xor-triplets-i | [C++](DSA%20with%20CPP/LeetCode/3513-number-of-unique-xor-triplets-i) |
 | 3501-maximize-active-section-with-trade-ii | [C++](DSA%20with%20CPP/LeetCode/3501-maximize-active-section-with-trade-ii) |
 | 3499-maximize-active-section-with-trade-i | [C++](DSA%20with%20CPP/LeetCode/3499-maximize-active-section-with-trade-i) / [Java](DSA%20with%20Java/LeetCode/3499-maximize-active-section-with-trade-i) |
 | 1260-shift-2d-grid | [C++](DSA%20with%20CPP/LeetCode/1260-shift-2d-grid) |
 | 0063-unique-paths-ii | [C++](DSA%20with%20CPP/LeetCode/0063-unique-paths-ii) / [Java](DSA%20with%20Java/LeetCode/0063-unique-paths-ii) |
-| 1081-smallest-subsequence-of-distinct-characters | [C++](DSA%20with%20CPP/LeetCode/1081-smallest-subsequence-of-distinct-characters) / [Java](DSA%20with%20Java/LeetCode/1081-smallest-subsequence-of-distinct-characters) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
