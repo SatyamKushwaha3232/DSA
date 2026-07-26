@@ -71,8 +71,8 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 77 |
-| Solved tracked in stats | 73 |
-| Easy | 18 |
+| Solved tracked in stats | 74 |
+| Easy | 19 |
 | Medium | 40 |
 | Hard | 15 |
 | C++ LeetCode folders | 75 |
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 0628-maximum-product-of-three-numbers | [C++](DSA%20with%20CPP/LeetCode/0628-maximum-product-of-three-numbers) |
 | 3536-maximum-product-of-two-digits | [C++](DSA%20with%20CPP/LeetCode/3536-maximum-product-of-two-digits) |
 | 3514-number-of-unique-xor-triplets-ii | [C++](DSA%20with%20CPP/LeetCode/3514-number-of-unique-xor-triplets-ii) |
 | 3513-number-of-unique-xor-triplets-i | [C++](DSA%20with%20CPP/LeetCode/3513-number-of-unique-xor-triplets-i) |
 | 3501-maximize-active-section-with-trade-ii | [C++](DSA%20with%20CPP/LeetCode/3501-maximize-active-section-with-trade-ii) |
-| 3499-maximize-active-section-with-trade-i | [C++](DSA%20with%20CPP/LeetCode/3499-maximize-active-section-with-trade-i) / [Java](DSA%20with%20Java/LeetCode/3499-maximize-active-section-with-trade-i) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
