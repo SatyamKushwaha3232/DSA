@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 76 |
-| Solved tracked in stats | 72 |
-| Easy | 17 |
+| Total LeetCode problems | 77 |
+| Solved tracked in stats | 73 |
+| Easy | 18 |
 | Medium | 40 |
 | Hard | 15 |
-| C++ LeetCode folders | 74 |
+| C++ LeetCode folders | 75 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 74 |
+| C++ solution files | 75 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-07-25 |
+| Last updated | 2026-07-26 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3536-maximum-product-of-two-digits | [C++](DSA%20with%20CPP/LeetCode/3536-maximum-product-of-two-digits) |
 | 3514-number-of-unique-xor-triplets-ii | [C++](DSA%20with%20CPP/LeetCode/3514-number-of-unique-xor-triplets-ii) |
 | 3513-number-of-unique-xor-triplets-i | [C++](DSA%20with%20CPP/LeetCode/3513-number-of-unique-xor-triplets-i) |
 | 3501-maximize-active-section-with-trade-ii | [C++](DSA%20with%20CPP/LeetCode/3501-maximize-active-section-with-trade-ii) |
 | 3499-maximize-active-section-with-trade-i | [C++](DSA%20with%20CPP/LeetCode/3499-maximize-active-section-with-trade-i) / [Java](DSA%20with%20Java/LeetCode/3499-maximize-active-section-with-trade-i) |
-| 1260-shift-2d-grid | [C++](DSA%20with%20CPP/LeetCode/1260-shift-2d-grid) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
