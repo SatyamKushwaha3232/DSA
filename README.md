@@ -223,6 +223,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0048-rotate-image](https://github.com/SatyamKushwaha3232/DSA/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/0063-unique-paths-ii) |
 | [0396-rotate-function](https://github.com/SatyamKushwaha3232/DSA/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SatyamKushwaha3232/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/SatyamKushwaha3232/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1260-shift-2d-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SatyamKushwaha3232/DSA/tree/master/1288-remove-covered-intervals) |
@@ -330,6 +331,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/SatyamKushwaha3232/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/SatyamKushwaha3232/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SatyamKushwaha3232/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/SatyamKushwaha3232/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -353,6 +355,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0319-bulb-switcher](https://github.com/SatyamKushwaha3232/DSA/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/SatyamKushwaha3232/DSA/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SatyamKushwaha3232/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/SatyamKushwaha3232/DSA/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SatyamKushwaha3232/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
