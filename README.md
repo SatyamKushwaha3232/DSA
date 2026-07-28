@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 78 |
-| Solved tracked in stats | 74 |
-| Easy | 19 |
+| Total LeetCode problems | 79 |
+| Solved tracked in stats | 75 |
+| Easy | 20 |
 | Medium | 40 |
 | Hard | 15 |
-| C++ LeetCode folders | 76 |
+| C++ LeetCode folders | 77 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 76 |
+| C++ solution files | 77 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-07-27 |
+| Last updated | 2026-07-28 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 1464-maximum-product-of-two-elements-in-an-array | [C++](DSA%20with%20CPP/LeetCode/1464-maximum-product-of-two-elements-in-an-array) |
 | 0628-maximum-product-of-three-numbers | [C++](DSA%20with%20CPP/LeetCode/0628-maximum-product-of-three-numbers) |
 | 3536-maximum-product-of-two-digits | [C++](DSA%20with%20CPP/LeetCode/3536-maximum-product-of-two-digits) |
 | 3514-number-of-unique-xor-triplets-ii | [C++](DSA%20with%20CPP/LeetCode/3514-number-of-unique-xor-triplets-ii) |
 | 3513-number-of-unique-xor-triplets-i | [C++](DSA%20with%20CPP/LeetCode/3513-number-of-unique-xor-triplets-i) |
-| 3501-maximize-active-section-with-trade-ii | [C++](DSA%20with%20CPP/LeetCode/3501-maximize-active-section-with-trade-ii) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
