@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 80 |
-| Solved tracked in stats | 76 |
+| Total LeetCode problems | 81 |
+| Solved tracked in stats | 77 |
 | Easy | 20 |
 | Medium | 41 |
-| Hard | 15 |
-| C++ LeetCode folders | 78 |
+| Hard | 16 |
+| C++ LeetCode folders | 79 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 78 |
+| C++ solution files | 79 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-07-29 |
+| Last updated | 2026-07-30 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3518-smallest-palindromic-rearrangement-ii | [C++](DSA%20with%20CPP/LeetCode/3518-smallest-palindromic-rearrangement-ii) |
 | 3517-smallest-palindromic-rearrangement-i | [C++](DSA%20with%20CPP/LeetCode/3517-smallest-palindromic-rearrangement-i) |
 | 1464-maximum-product-of-two-elements-in-an-array | [C++](DSA%20with%20CPP/LeetCode/1464-maximum-product-of-two-elements-in-an-array) |
 | 0628-maximum-product-of-three-numbers | [C++](DSA%20with%20CPP/LeetCode/0628-maximum-product-of-three-numbers) |
 | 3536-maximum-product-of-two-digits | [C++](DSA%20with%20CPP/LeetCode/3536-maximum-product-of-two-digits) |
-| 3514-number-of-unique-xor-triplets-ii | [C++](DSA%20with%20CPP/LeetCode/3514-number-of-unique-xor-triplets-ii) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
