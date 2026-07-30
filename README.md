@@ -71,8 +71,8 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 81 |
-| Solved tracked in stats | 77 |
-| Easy | 20 |
+| Solved tracked in stats | 78 |
+| Easy | 21 |
 | Medium | 41 |
 | Hard | 16 |
 | C++ LeetCode folders | 79 |
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3014-minimum-number-of-pushes-to-type-word-i | [C++](DSA%20with%20CPP/LeetCode/3014-minimum-number-of-pushes-to-type-word-i) |
 | 3518-smallest-palindromic-rearrangement-ii | [C++](DSA%20with%20CPP/LeetCode/3518-smallest-palindromic-rearrangement-ii) |
 | 3517-smallest-palindromic-rearrangement-i | [C++](DSA%20with%20CPP/LeetCode/3517-smallest-palindromic-rearrangement-i) |
 | 1464-maximum-product-of-two-elements-in-an-array | [C++](DSA%20with%20CPP/LeetCode/1464-maximum-product-of-two-elements-in-an-array) |
 | 0628-maximum-product-of-three-numbers | [C++](DSA%20with%20CPP/LeetCode/0628-maximum-product-of-three-numbers) |
-| 3536-maximum-product-of-two-digits | [C++](DSA%20with%20CPP/LeetCode/3536-maximum-product-of-two-digits) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
