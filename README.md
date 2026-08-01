@@ -71,9 +71,9 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 82 |
-| Solved tracked in stats | 78 |
+| Solved tracked in stats | 79 |
 | Easy | 21 |
-| Medium | 41 |
+| Medium | 42 |
 | Hard | 16 |
 | C++ LeetCode folders | 80 |
 | Java LeetCode folders | 7 |
@@ -81,7 +81,7 @@ Each problem folder may include:
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-07-31 |
+| Last updated | 2026-08-01 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3016-minimum-number-of-pushes-to-type-word-ii | [C++](DSA%20with%20CPP/LeetCode/3016-minimum-number-of-pushes-to-type-word-ii) |
 | 3014-minimum-number-of-pushes-to-type-word-i | [C++](DSA%20with%20CPP/LeetCode/3014-minimum-number-of-pushes-to-type-word-i) |
 | 3518-smallest-palindromic-rearrangement-ii | [C++](DSA%20with%20CPP/LeetCode/3518-smallest-palindromic-rearrangement-ii) |
 | 3517-smallest-palindromic-rearrangement-i | [C++](DSA%20with%20CPP/LeetCode/3517-smallest-palindromic-rearrangement-i) |
 | 1464-maximum-product-of-two-elements-in-an-array | [C++](DSA%20with%20CPP/LeetCode/1464-maximum-product-of-two-elements-in-an-array) |
-| 0628-maximum-product-of-three-numbers | [C++](DSA%20with%20CPP/LeetCode/0628-maximum-product-of-three-numbers) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
