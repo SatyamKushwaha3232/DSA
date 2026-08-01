@@ -231,6 +231,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0048-rotate-image](https://github.com/SatyamKushwaha3232/DSA/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/0063-unique-paths-ii) |
 | [0396-rotate-function](https://github.com/SatyamKushwaha3232/DSA/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/SatyamKushwaha3232/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SatyamKushwaha3232/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/SatyamKushwaha3232/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1260-shift-2d-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/1260-shift-2d-grid) |
@@ -311,6 +312,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0063-unique-paths-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/SatyamKushwaha3232/DSA/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/SatyamKushwaha3232/DSA/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/SatyamKushwaha3232/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/SatyamKushwaha3232/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/SatyamKushwaha3232/DSA/tree/master/0788-rotated-digits) |
@@ -369,6 +371,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0070-climbing-stairs](https://github.com/SatyamKushwaha3232/DSA/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/SatyamKushwaha3232/DSA/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/SatyamKushwaha3232/DSA/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/SatyamKushwaha3232/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SatyamKushwaha3232/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/SatyamKushwaha3232/DSA/tree/master/0788-rotated-digits) |
@@ -540,6 +543,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/SatyamKushwaha3232/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -560,5 +564,9 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SatyamKushwaha3232/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/SatyamKushwaha3232/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
 
