@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 82 |
-| Solved tracked in stats | 79 |
+| Total LeetCode problems | 83 |
+| Solved tracked in stats | 80 |
 | Easy | 21 |
-| Medium | 42 |
+| Medium | 43 |
 | Hard | 16 |
-| C++ LeetCode folders | 80 |
+| C++ LeetCode folders | 81 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 80 |
+| C++ solution files | 81 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-08-01 |
+| Last updated | 2026-08-11 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 0486-predict-the-winner | [C++](DSA%20with%20CPP/LeetCode/0486-predict-the-winner) |
 | 3016-minimum-number-of-pushes-to-type-word-ii | [C++](DSA%20with%20CPP/LeetCode/3016-minimum-number-of-pushes-to-type-word-ii) |
 | 3014-minimum-number-of-pushes-to-type-word-i | [C++](DSA%20with%20CPP/LeetCode/3014-minimum-number-of-pushes-to-type-word-i) |
 | 3518-smallest-palindromic-rearrangement-ii | [C++](DSA%20with%20CPP/LeetCode/3518-smallest-palindromic-rearrangement-ii) |
 | 3517-smallest-palindromic-rearrangement-i | [C++](DSA%20with%20CPP/LeetCode/3517-smallest-palindromic-rearrangement-i) |
-| 1464-maximum-product-of-two-elements-in-an-array | [C++](DSA%20with%20CPP/LeetCode/1464-maximum-product-of-two-elements-in-an-array) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
