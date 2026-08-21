@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 83 |
-| Solved tracked in stats | 80 |
-| Easy | 21 |
+| Total LeetCode problems | 84 |
+| Solved tracked in stats | 81 |
+| Easy | 22 |
 | Medium | 43 |
 | Hard | 16 |
-| C++ LeetCode folders | 81 |
+| C++ LeetCode folders | 82 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 81 |
+| C++ solution files | 82 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-08-11 |
+| Last updated | 2026-08-21 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 2996-smallest-missing-integer-greater-than-sequential-prefix-sum | [C++](DSA%20with%20CPP/LeetCode/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | 0486-predict-the-winner | [C++](DSA%20with%20CPP/LeetCode/0486-predict-the-winner) |
 | 3016-minimum-number-of-pushes-to-type-word-ii | [C++](DSA%20with%20CPP/LeetCode/3016-minimum-number-of-pushes-to-type-word-ii) |
 | 3014-minimum-number-of-pushes-to-type-word-i | [C++](DSA%20with%20CPP/LeetCode/3014-minimum-number-of-pushes-to-type-word-i) |
 | 3518-smallest-palindromic-rearrangement-ii | [C++](DSA%20with%20CPP/LeetCode/3518-smallest-palindromic-rearrangement-ii) |
-| 3517-smallest-palindromic-rearrangement-i | [C++](DSA%20with%20CPP/LeetCode/3517-smallest-palindromic-rearrangement-i) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
