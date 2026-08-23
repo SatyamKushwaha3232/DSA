@@ -205,6 +205,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SatyamKushwaha3232/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/SatyamKushwaha3232/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyamKushwaha3232/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/SatyamKushwaha3232/DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatyamKushwaha3232/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -337,6 +338,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SatyamKushwaha3232/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/SatyamKushwaha3232/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SatyamKushwaha3232/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/SatyamKushwaha3232/DSA/tree/master/1927-sum-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SatyamKushwaha3232/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -383,6 +385,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [1137-n-th-tribonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SatyamKushwaha3232/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/SatyamKushwaha3232/DSA/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/SatyamKushwaha3232/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SatyamKushwaha3232/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SatyamKushwaha3232/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -578,5 +581,6 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SatyamKushwaha3232/DSA/tree/master/0486-predict-the-winner) |
+| [1927-sum-game](https://github.com/SatyamKushwaha3232/DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
 
