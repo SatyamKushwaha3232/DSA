@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 86 |
-| Solved tracked in stats | 81 |
-| Easy | 22 |
+| Total LeetCode problems | 87 |
+| Solved tracked in stats | 83 |
+| Easy | 23 |
 | Medium | 43 |
-| Hard | 16 |
-| C++ LeetCode folders | 84 |
+| Hard | 17 |
+| C++ LeetCode folders | 85 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 84 |
+| C++ solution files | 85 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-08-22 |
+| Last updated | 2026-08-23 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3622-check-divisibility-by-digit-sum-and-product | [C++](DSA%20with%20CPP/LeetCode/3622-check-divisibility-by-digit-sum-and-product) |
+| 3116-kth-smallest-amount-with-single-denomination-combination | [C++](DSA%20with%20CPP/LeetCode/3116-kth-smallest-amount-with-single-denomination-combination) |
 | 2996-smallest-missing-integer-greater-than-sequential-prefix-sum | [C++](DSA%20with%20CPP/LeetCode/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | 0486-predict-the-winner | [C++](DSA%20with%20CPP/LeetCode/0486-predict-the-winner) |
 | 3016-minimum-number-of-pushes-to-type-word-ii | [C++](DSA%20with%20CPP/LeetCode/3016-minimum-number-of-pushes-to-type-word-ii) |
-| 3014-minimum-number-of-pushes-to-type-word-i | [C++](DSA%20with%20CPP/LeetCode/3014-minimum-number-of-pushes-to-type-word-i) |
-| 3518-smallest-palindromic-rearrangement-ii | [C++](DSA%20with%20CPP/LeetCode/3518-smallest-palindromic-rearrangement-ii) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
