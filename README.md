@@ -71,9 +71,9 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 87 |
-| Solved tracked in stats | 83 |
+| Solved tracked in stats | 84 |
 | Easy | 23 |
-| Medium | 43 |
+| Medium | 44 |
 | Hard | 17 |
 | C++ LeetCode folders | 85 |
 | Java LeetCode folders | 7 |
@@ -81,7 +81,7 @@ Each problem folder may include:
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-08-23 |
+| Last updated | 2026-08-24 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 1927-sum-game | [C++](DSA%20with%20CPP/LeetCode/1927-sum-game) |
 | 3622-check-divisibility-by-digit-sum-and-product | [C++](DSA%20with%20CPP/LeetCode/3622-check-divisibility-by-digit-sum-and-product) |
 | 3116-kth-smallest-amount-with-single-denomination-combination | [C++](DSA%20with%20CPP/LeetCode/3116-kth-smallest-amount-with-single-denomination-combination) |
 | 2996-smallest-missing-integer-greater-than-sequential-prefix-sum | [C++](DSA%20with%20CPP/LeetCode/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | 0486-predict-the-winner | [C++](DSA%20with%20CPP/LeetCode/0486-predict-the-winner) |
-| 3016-minimum-number-of-pushes-to-type-word-ii | [C++](DSA%20with%20CPP/LeetCode/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
