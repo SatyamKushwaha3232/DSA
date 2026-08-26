@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 87 |
-| Solved tracked in stats | 84 |
+| Total LeetCode problems | 89 |
+| Solved tracked in stats | 86 |
 | Easy | 23 |
-| Medium | 44 |
-| Hard | 17 |
-| C++ LeetCode folders | 85 |
+| Medium | 45 |
+| Hard | 18 |
+| C++ LeetCode folders | 87 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 85 |
+| C++ solution files | 87 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-08-24 |
+| Last updated | 2026-08-26 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 2904-shortest-and-lexicographically-smallest-beautiful-string | [C++](DSA%20with%20CPP/LeetCode/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| 1872-stone-game-viii | [C++](DSA%20with%20CPP/LeetCode/1872-stone-game-viii) |
 | 1927-sum-game | [C++](DSA%20with%20CPP/LeetCode/1927-sum-game) |
 | 3622-check-divisibility-by-digit-sum-and-product | [C++](DSA%20with%20CPP/LeetCode/3622-check-divisibility-by-digit-sum-and-product) |
 | 3116-kth-smallest-amount-with-single-denomination-combination | [C++](DSA%20with%20CPP/LeetCode/3116-kth-smallest-amount-with-single-denomination-combination) |
-| 2996-smallest-missing-integer-greater-than-sequential-prefix-sum | [C++](DSA%20with%20CPP/LeetCode/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
-| 0486-predict-the-winner | [C++](DSA%20with%20CPP/LeetCode/0486-predict-the-winner) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
