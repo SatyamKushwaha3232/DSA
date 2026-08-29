@@ -71,9 +71,9 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 91 |
-| Solved tracked in stats | 87 |
+| Solved tracked in stats | 88 |
 | Easy | 23 |
-| Medium | 46 |
+| Medium | 47 |
 | Hard | 18 |
 | C++ LeetCode folders | 89 |
 | Java LeetCode folders | 7 |
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 2948-make-lexicographically-smallest-array-by-swapping-elements | [C++](DSA%20with%20CPP/LeetCode/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | 3720-lexicographically-smallest-permutation-greater-than-target | [C++](DSA%20with%20CPP/LeetCode/3720-lexicographically-smallest-permutation-greater-than-target) |
 | 2904-shortest-and-lexicographically-smallest-beautiful-string | [C++](DSA%20with%20CPP/LeetCode/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | 1872-stone-game-viii | [C++](DSA%20with%20CPP/LeetCode/1872-stone-game-viii) |
 | 1927-sum-game | [C++](DSA%20with%20CPP/LeetCode/1927-sum-game) |
-| 3622-check-divisibility-by-digit-sum-and-product | [C++](DSA%20with%20CPP/LeetCode/3622-check-divisibility-by-digit-sum-and-product) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
