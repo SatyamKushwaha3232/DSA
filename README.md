@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 90 |
-| Solved tracked in stats | 86 |
+| Total LeetCode problems | 91 |
+| Solved tracked in stats | 87 |
 | Easy | 23 |
-| Medium | 45 |
+| Medium | 46 |
 | Hard | 18 |
-| C++ LeetCode folders | 88 |
+| C++ LeetCode folders | 89 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 88 |
+| C++ solution files | 89 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-08-27 |
+| Last updated | 2026-08-29 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3720-lexicographically-smallest-permutation-greater-than-target | [C++](DSA%20with%20CPP/LeetCode/3720-lexicographically-smallest-permutation-greater-than-target) |
 | 2904-shortest-and-lexicographically-smallest-beautiful-string | [C++](DSA%20with%20CPP/LeetCode/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | 1872-stone-game-viii | [C++](DSA%20with%20CPP/LeetCode/1872-stone-game-viii) |
 | 1927-sum-game | [C++](DSA%20with%20CPP/LeetCode/1927-sum-game) |
 | 3622-check-divisibility-by-digit-sum-and-product | [C++](DSA%20with%20CPP/LeetCode/3622-check-divisibility-by-digit-sum-and-product) |
-| 3116-kth-smallest-amount-with-single-denomination-combination | [C++](DSA%20with%20CPP/LeetCode/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
