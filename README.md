@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 93 |
-| Solved tracked in stats | 88 |
+| Total LeetCode problems | 94 |
+| Solved tracked in stats | 89 |
 | Easy | 23 |
-| Medium | 47 |
+| Medium | 48 |
 | Hard | 18 |
-| C++ LeetCode folders | 91 |
+| C++ LeetCode folders | 92 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 91 |
+| C++ solution files | 92 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-08-31 |
+| Last updated | 2026-09-01 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 2091-removing-minimum-and-maximum-from-array | [C++](DSA%20with%20CPP/LeetCode/2091-removing-minimum-and-maximum-from-array) |
+| 2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points | [C++](DSA%20with%20CPP/LeetCode/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | 2948-make-lexicographically-smallest-array-by-swapping-elements | [C++](DSA%20with%20CPP/LeetCode/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | 3720-lexicographically-smallest-permutation-greater-than-target | [C++](DSA%20with%20CPP/LeetCode/3720-lexicographically-smallest-permutation-greater-than-target) |
 | 2904-shortest-and-lexicographically-smallest-beautiful-string | [C++](DSA%20with%20CPP/LeetCode/2904-shortest-and-lexicographically-smallest-beautiful-string) |
-| 1872-stone-game-viii | [C++](DSA%20with%20CPP/LeetCode/1872-stone-game-viii) |
-| 1927-sum-game | [C++](DSA%20with%20CPP/LeetCode/1927-sum-game) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
