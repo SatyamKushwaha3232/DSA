@@ -194,6 +194,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [3312-sorted-gcd-pair-queries](https://github.com/SatyamKushwaha3232/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SatyamKushwaha3232/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SatyamKushwaha3232/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SatyamKushwaha3232/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -272,6 +273,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SatyamKushwaha3232/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/SatyamKushwaha3232/DSA/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SatyamKushwaha3232/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -457,6 +459,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SatyamKushwaha3232/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
 | ------- |
@@ -511,6 +514,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [2685-count-the-number-of-complete-components](https://github.com/SatyamKushwaha3232/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SatyamKushwaha3232/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SatyamKushwaha3232/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union-Find
 |  |
@@ -531,6 +535,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [1914-cyclically-rotating-a-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SatyamKushwaha3232/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
