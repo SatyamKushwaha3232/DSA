@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 97 |
-| Solved tracked in stats | 91 |
-| Easy | 24 |
+| Total LeetCode problems | 98 |
+| Solved tracked in stats | 92 |
+| Easy | 25 |
 | Medium | 49 |
 | Hard | 18 |
-| C++ LeetCode folders | 95 |
+| C++ LeetCode folders | 96 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 95 |
+| C++ solution files | 96 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-09-04 |
+| Last updated | 2026-09-05 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3903-smallest-stable-index-i | [C++](DSA%20with%20CPP/LeetCode/3903-smallest-stable-index-i) |
+| 3876-construct-uniform-parity-array-ii | [C++](DSA%20with%20CPP/LeetCode/3876-construct-uniform-parity-array-ii) |
 | 3875-construct-uniform-parity-array-i | [C++](DSA%20with%20CPP/LeetCode/3875-construct-uniform-parity-array-i) |
 | 3568-minimum-moves-to-clean-the-classroom | [C++](DSA%20with%20CPP/LeetCode/3568-minimum-moves-to-clean-the-classroom) |
 | 2091-removing-minimum-and-maximum-from-array | [C++](DSA%20with%20CPP/LeetCode/2091-removing-minimum-and-maximum-from-array) |
-| 2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points | [C++](DSA%20with%20CPP/LeetCode/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
-| 2948-make-lexicographically-smallest-array-by-swapping-elements | [C++](DSA%20with%20CPP/LeetCode/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
