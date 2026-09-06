@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 98 |
-| Solved tracked in stats | 92 |
+| Total LeetCode problems | 99 |
+| Solved tracked in stats | 93 |
 | Easy | 25 |
-| Medium | 49 |
+| Medium | 50 |
 | Hard | 18 |
-| C++ LeetCode folders | 96 |
+| C++ LeetCode folders | 97 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 96 |
+| C++ solution files | 97 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-09-05 |
+| Last updated | 2026-09-06 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3904-smallest-stable-index-ii | [C++](DSA%20with%20CPP/LeetCode/3904-smallest-stable-index-ii) |
 | 3903-smallest-stable-index-i | [C++](DSA%20with%20CPP/LeetCode/3903-smallest-stable-index-i) |
 | 3876-construct-uniform-parity-array-ii | [C++](DSA%20with%20CPP/LeetCode/3876-construct-uniform-parity-array-ii) |
 | 3875-construct-uniform-parity-array-i | [C++](DSA%20with%20CPP/LeetCode/3875-construct-uniform-parity-array-i) |
 | 3568-minimum-moves-to-clean-the-classroom | [C++](DSA%20with%20CPP/LeetCode/3568-minimum-moves-to-clean-the-classroom) |
-| 2091-removing-minimum-and-maximum-from-array | [C++](DSA%20with%20CPP/LeetCode/2091-removing-minimum-and-maximum-from-array) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
