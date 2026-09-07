@@ -205,6 +205,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0005-longest-palindromic-substring](https://github.com/SatyamKushwaha3232/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/SatyamKushwaha3232/DSA/tree/master/0115-distinct-subsequences) |
 | [0796-rotate-string](https://github.com/SatyamKushwaha3232/DSA/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SatyamKushwaha3232/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/SatyamKushwaha3232/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyamKushwaha3232/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -334,6 +335,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0509-fibonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/SatyamKushwaha3232/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/SatyamKushwaha3232/DSA/tree/master/0788-rotated-digits) |
+| [0940-distinct-subsequences-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/SatyamKushwaha3232/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1872-stone-game-viii](https://github.com/SatyamKushwaha3232/DSA/tree/master/1872-stone-game-viii) |
