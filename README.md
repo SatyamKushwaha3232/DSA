@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 101 |
-| Solved tracked in stats | 94 |
-| Easy | 25 |
+| Total LeetCode problems | 102 |
+| Solved tracked in stats | 96 |
+| Easy | 26 |
 | Medium | 50 |
-| Hard | 19 |
-| C++ LeetCode folders | 99 |
+| Hard | 20 |
+| C++ LeetCode folders | 100 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 99 |
+| C++ solution files | 100 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-09-08 |
+| Last updated | 2026-09-09 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3870-count-commas-in-range | [C++](DSA%20with%20CPP/LeetCode/3870-count-commas-in-range) |
+| 0940-distinct-subsequences-ii | [C++](DSA%20with%20CPP/LeetCode/0940-distinct-subsequences-ii) |
 | 0115-distinct-subsequences | [C++](DSA%20with%20CPP/LeetCode/0115-distinct-subsequences) |
 | 3904-smallest-stable-index-ii | [C++](DSA%20with%20CPP/LeetCode/3904-smallest-stable-index-ii) |
 | 3903-smallest-stable-index-i | [C++](DSA%20with%20CPP/LeetCode/3903-smallest-stable-index-i) |
-| 3876-construct-uniform-parity-array-ii | [C++](DSA%20with%20CPP/LeetCode/3876-construct-uniform-parity-array-ii) |
-| 3875-construct-uniform-parity-array-i | [C++](DSA%20with%20CPP/LeetCode/3875-construct-uniform-parity-array-i) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
