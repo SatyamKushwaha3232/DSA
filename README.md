@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 102 |
-| Solved tracked in stats | 97 |
+| Total LeetCode problems | 104 |
+| Solved tracked in stats | 98 |
 | Easy | 26 |
-| Medium | 51 |
+| Medium | 52 |
 | Hard | 20 |
-| C++ LeetCode folders | 100 |
+| C++ LeetCode folders | 102 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 100 |
+| C++ solution files | 102 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-09-10 |
+| Last updated | 2026-09-11 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 2265-count-nodes-equal-to-average-of-subtree | [C++](DSA%20with%20CPP/LeetCode/2265-count-nodes-equal-to-average-of-subtree) |
 | 3871-count-commas-in-range-ii | [C++](DSA%20with%20CPP/LeetCode/3871-count-commas-in-range-ii) |
 | 3870-count-commas-in-range | [C++](DSA%20with%20CPP/LeetCode/3870-count-commas-in-range) |
 | 0940-distinct-subsequences-ii | [C++](DSA%20with%20CPP/LeetCode/0940-distinct-subsequences-ii) |
 | 0115-distinct-subsequences | [C++](DSA%20with%20CPP/LeetCode/0115-distinct-subsequences) |
-| 3904-smallest-stable-index-ii | [C++](DSA%20with%20CPP/LeetCode/3904-smallest-stable-index-ii) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
