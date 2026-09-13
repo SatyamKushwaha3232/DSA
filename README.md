@@ -71,17 +71,17 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 105 |
-| Solved tracked in stats | 98 |
+| Solved tracked in stats | 99 |
 | Easy | 26 |
 | Medium | 52 |
-| Hard | 20 |
+| Hard | 21 |
 | C++ LeetCode folders | 103 |
 | Java LeetCode folders | 7 |
 | C++ solution files | 103 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-09-12 |
+| Last updated | 2026-09-13 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3483-unique-3-digit-even-numbers | [C++](DSA%20with%20CPP/LeetCode/3483-unique-3-digit-even-numbers) |
+| 3414-maximum-score-of-non-overlapping-intervals | [C++](DSA%20with%20CPP/LeetCode/3414-maximum-score-of-non-overlapping-intervals) |
 | 2265-count-nodes-equal-to-average-of-subtree | [C++](DSA%20with%20CPP/LeetCode/2265-count-nodes-equal-to-average-of-subtree) |
 | 3871-count-commas-in-range-ii | [C++](DSA%20with%20CPP/LeetCode/3871-count-commas-in-range-ii) |
 | 3870-count-commas-in-range | [C++](DSA%20with%20CPP/LeetCode/3870-count-commas-in-range) |
-| 0940-distinct-subsequences-ii | [C++](DSA%20with%20CPP/LeetCode/0940-distinct-subsequences-ii) |
-| 0115-distinct-subsequences | [C++](DSA%20with%20CPP/LeetCode/0115-distinct-subsequences) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
