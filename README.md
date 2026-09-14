@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 105 |
+| Total LeetCode problems | 107 |
 | Solved tracked in stats | 99 |
 | Easy | 26 |
 | Medium | 52 |
 | Hard | 21 |
-| C++ LeetCode folders | 103 |
+| C++ LeetCode folders | 105 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 103 |
+| C++ solution files | 105 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-09-13 |
+| Last updated | 2026-09-14 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
