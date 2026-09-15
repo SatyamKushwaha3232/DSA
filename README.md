@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 107 |
-| Solved tracked in stats | 99 |
-| Easy | 26 |
+| Total LeetCode problems | 108 |
+| Solved tracked in stats | 100 |
+| Easy | 27 |
 | Medium | 52 |
 | Hard | 21 |
-| C++ LeetCode folders | 105 |
+| C++ LeetCode folders | 106 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 105 |
+| C++ solution files | 106 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-09-14 |
+| Last updated | 2026-09-15 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 0836-rectangle-overlap | [C++](DSA%20with%20CPP/LeetCode/0836-rectangle-overlap) |
+| 0835-image-overlap | [C++](DSA%20with%20CPP/LeetCode/0835-image-overlap) |
 | 3483-unique-3-digit-even-numbers | [C++](DSA%20with%20CPP/LeetCode/3483-unique-3-digit-even-numbers) |
 | 3414-maximum-score-of-non-overlapping-intervals | [C++](DSA%20with%20CPP/LeetCode/3414-maximum-score-of-non-overlapping-intervals) |
 | 2265-count-nodes-equal-to-average-of-subtree | [C++](DSA%20with%20CPP/LeetCode/2265-count-nodes-equal-to-average-of-subtree) |
-| 3871-count-commas-in-range-ii | [C++](DSA%20with%20CPP/LeetCode/3871-count-commas-in-range-ii) |
-| 3870-count-commas-in-range | [C++](DSA%20with%20CPP/LeetCode/3870-count-commas-in-range) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
