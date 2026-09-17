@@ -71,9 +71,9 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 109 |
-| Solved tracked in stats | 101 |
+| Solved tracked in stats | 102 |
 | Easy | 27 |
-| Medium | 52 |
+| Medium | 53 |
 | Hard | 22 |
 | C++ LeetCode folders | 107 |
 | Java LeetCode folders | 7 |
@@ -81,7 +81,7 @@ Each problem folder may include:
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-09-16 |
+| Last updated | 2026-09-17 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 1621-number-of-sets-of-k-non-overlapping-line-segments | [C++](DSA%20with%20CPP/LeetCode/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | 2472-maximum-number-of-non-overlapping-palindrome-substrings | [C++](DSA%20with%20CPP/LeetCode/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | 0836-rectangle-overlap | [C++](DSA%20with%20CPP/LeetCode/0836-rectangle-overlap) |
 | 0835-image-overlap | [C++](DSA%20with%20CPP/LeetCode/0835-image-overlap) |
 | 3483-unique-3-digit-even-numbers | [C++](DSA%20with%20CPP/LeetCode/3483-unique-3-digit-even-numbers) |
-| 3414-maximum-score-of-non-overlapping-intervals | [C++](DSA%20with%20CPP/LeetCode/3414-maximum-score-of-non-overlapping-intervals) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
