@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 111 |
-| Solved tracked in stats | 104 |
+| Total LeetCode problems | 112 |
+| Solved tracked in stats | 105 |
 | Easy | 27 |
-| Medium | 54 |
+| Medium | 55 |
 | Hard | 23 |
-| C++ LeetCode folders | 109 |
+| C++ LeetCode folders | 110 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 109 |
+| C++ solution files | 110 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-09-19 |
+| Last updated | 2026-09-20 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 1401-circle-and-rectangle-overlapping | [C++](DSA%20with%20CPP/LeetCode/1401-circle-and-rectangle-overlapping) |
 | 1520-maximum-number-of-non-overlapping-substrings | [C++](DSA%20with%20CPP/LeetCode/1520-maximum-number-of-non-overlapping-substrings) |
 | 1477-find-two-non-overlapping-sub-arrays-each-with-target-sum | [C++](DSA%20with%20CPP/LeetCode/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | 1621-number-of-sets-of-k-non-overlapping-line-segments | [C++](DSA%20with%20CPP/LeetCode/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | 2472-maximum-number-of-non-overlapping-palindrome-substrings | [C++](DSA%20with%20CPP/LeetCode/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-| 0836-rectangle-overlap | [C++](DSA%20with%20CPP/LeetCode/0836-rectangle-overlap) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
