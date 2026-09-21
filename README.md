@@ -71,9 +71,9 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 114 |
-| Solved tracked in stats | 106 |
+| Solved tracked in stats | 107 |
 | Easy | 28 |
-| Medium | 55 |
+| Medium | 56 |
 | Hard | 23 |
 | C++ LeetCode folders | 112 |
 | Java LeetCode folders | 7 |
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3524-find-x-value-of-array-i | [C++](DSA%20with%20CPP/LeetCode/3524-find-x-value-of-array-i) |
 | 3498-reverse-degree-of-a-string | [C++](DSA%20with%20CPP/LeetCode/3498-reverse-degree-of-a-string) |
 | 1401-circle-and-rectangle-overlapping | [C++](DSA%20with%20CPP/LeetCode/1401-circle-and-rectangle-overlapping) |
 | 1520-maximum-number-of-non-overlapping-substrings | [C++](DSA%20with%20CPP/LeetCode/1520-maximum-number-of-non-overlapping-substrings) |
 | 1477-find-two-non-overlapping-sub-arrays-each-with-target-sum | [C++](DSA%20with%20CPP/LeetCode/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-| 1621-number-of-sets-of-k-non-overlapping-line-segments | [C++](DSA%20with%20CPP/LeetCode/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
