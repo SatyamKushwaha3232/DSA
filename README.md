@@ -71,17 +71,17 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 115 |
-| Solved tracked in stats | 107 |
+| Solved tracked in stats | 108 |
 | Easy | 28 |
 | Medium | 56 |
-| Hard | 23 |
+| Hard | 24 |
 | C++ LeetCode folders | 113 |
 | Java LeetCode folders | 7 |
 | C++ solution files | 113 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-09-22 |
+| Last updated | 2026-09-23 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3525-find-x-value-of-array-ii | [C++](DSA%20with%20CPP/LeetCode/3525-find-x-value-of-array-ii) |
 | 3524-find-x-value-of-array-i | [C++](DSA%20with%20CPP/LeetCode/3524-find-x-value-of-array-i) |
 | 3498-reverse-degree-of-a-string | [C++](DSA%20with%20CPP/LeetCode/3498-reverse-degree-of-a-string) |
 | 1401-circle-and-rectangle-overlapping | [C++](DSA%20with%20CPP/LeetCode/1401-circle-and-rectangle-overlapping) |
 | 1520-maximum-number-of-non-overlapping-substrings | [C++](DSA%20with%20CPP/LeetCode/1520-maximum-number-of-non-overlapping-substrings) |
-| 1477-find-two-non-overlapping-sub-arrays-each-with-target-sum | [C++](DSA%20with%20CPP/LeetCode/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
