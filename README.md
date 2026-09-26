@@ -71,9 +71,9 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 119 |
-| Solved tracked in stats | 108 |
-| Easy | 28 |
-| Medium | 56 |
+| Solved tracked in stats | 110 |
+| Easy | 29 |
+| Medium | 57 |
 | Hard | 24 |
 | C++ LeetCode folders | 117 |
 | Java LeetCode folders | 7 |
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3550-smallest-index-with-digit-sum-equal-to-index | [C++](DSA%20with%20CPP/LeetCode/3550-smallest-index-with-digit-sum-equal-to-index) |
+| 1807-evaluate-the-bracket-pairs-of-a-string | [C++](DSA%20with%20CPP/LeetCode/1807-evaluate-the-bracket-pairs-of-a-string) |
+| 1658-minimum-operations-to-reduce-x-to-zero | [C++](DSA%20with%20CPP/LeetCode/1658-minimum-operations-to-reduce-x-to-zero) |
+| 1096-brace-expansion-ii | [C++](DSA%20with%20CPP/LeetCode/1096-brace-expansion-ii) |
 | 3525-find-x-value-of-array-ii | [C++](DSA%20with%20CPP/LeetCode/3525-find-x-value-of-array-ii) |
-| 3524-find-x-value-of-array-i | [C++](DSA%20with%20CPP/LeetCode/3524-find-x-value-of-array-i) |
-| 3498-reverse-degree-of-a-string | [C++](DSA%20with%20CPP/LeetCode/3498-reverse-degree-of-a-string) |
-| 1401-circle-and-rectangle-overlapping | [C++](DSA%20with%20CPP/LeetCode/1401-circle-and-rectangle-overlapping) |
-| 1520-maximum-number-of-non-overlapping-substrings | [C++](DSA%20with%20CPP/LeetCode/1520-maximum-number-of-non-overlapping-substrings) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
