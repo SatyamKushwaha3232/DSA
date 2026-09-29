@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 121 |
-| Solved tracked in stats | 110 |
-| Easy | 29 |
-| Medium | 57 |
+| Total LeetCode problems | 122 |
+| Solved tracked in stats | 112 |
+| Easy | 30 |
+| Medium | 58 |
 | Hard | 24 |
-| C++ LeetCode folders | 119 |
+| C++ LeetCode folders | 120 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 119 |
+| C++ solution files | 120 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-09-28 |
+| Last updated | 2026-09-29 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 1614-maximum-nesting-depth-of-the-parentheses | [C++](DSA%20with%20CPP/LeetCode/1614-maximum-nesting-depth-of-the-parentheses) |
+| 1190-reverse-substrings-between-each-pair-of-parentheses | [C++](DSA%20with%20CPP/LeetCode/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | 3550-smallest-index-with-digit-sum-equal-to-index | [C++](DSA%20with%20CPP/LeetCode/3550-smallest-index-with-digit-sum-equal-to-index) |
 | 1807-evaluate-the-bracket-pairs-of-a-string | [C++](DSA%20with%20CPP/LeetCode/1807-evaluate-the-bracket-pairs-of-a-string) |
 | 1658-minimum-operations-to-reduce-x-to-zero | [C++](DSA%20with%20CPP/LeetCode/1658-minimum-operations-to-reduce-x-to-zero) |
-| 1096-brace-expansion-ii | [C++](DSA%20with%20CPP/LeetCode/1096-brace-expansion-ii) |
-| 3525-find-x-value-of-array-ii | [C++](DSA%20with%20CPP/LeetCode/3525-find-x-value-of-array-ii) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
