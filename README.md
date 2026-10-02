@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 123 |
-| Solved tracked in stats | 114 |
-| Easy | 30 |
+| Total LeetCode problems | 124 |
+| Solved tracked in stats | 115 |
+| Easy | 31 |
 | Medium | 59 |
 | Hard | 25 |
-| C++ LeetCode folders | 121 |
+| C++ LeetCode folders | 122 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 121 |
+| C++ solution files | 122 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-10-01 |
+| Last updated | 2026-10-02 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 0020-valid-parentheses | [C++](DSA%20with%20CPP/LeetCode/0020-valid-parentheses) |
 | 1111-maximum-nesting-depth-of-two-valid-parentheses-strings | [C++](DSA%20with%20CPP/LeetCode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | 2267-check-if-there-is-a-valid-parentheses-string-path | [C++](DSA%20with%20CPP/LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | 1614-maximum-nesting-depth-of-the-parentheses | [C++](DSA%20with%20CPP/LeetCode/1614-maximum-nesting-depth-of-the-parentheses) |
 | 1190-reverse-substrings-between-each-pair-of-parentheses | [C++](DSA%20with%20CPP/LeetCode/1190-reverse-substrings-between-each-pair-of-parentheses) |
-| 3550-smallest-index-with-digit-sum-equal-to-index | [C++](DSA%20with%20CPP/LeetCode/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
