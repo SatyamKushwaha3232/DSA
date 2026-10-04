@@ -210,6 +210,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0022-generate-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/SatyamKushwaha3232/DSA/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/SatyamKushwaha3232/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/SatyamKushwaha3232/DSA/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SatyamKushwaha3232/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -358,6 +359,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0396-rotate-function](https://github.com/SatyamKushwaha3232/DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/SatyamKushwaha3232/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/SatyamKushwaha3232/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/SatyamKushwaha3232/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/SatyamKushwaha3232/DSA/tree/master/0788-rotated-digits) |
 | [0940-distinct-subsequences-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -382,6 +384,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/SatyamKushwaha3232/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SatyamKushwaha3232/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SatyamKushwaha3232/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/SatyamKushwaha3232/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -506,6 +509,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | ------- |
 | [0020-valid-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/SatyamKushwaha3232/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SatyamKushwaha3232/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SatyamKushwaha3232/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -689,6 +693,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0020-valid-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/SatyamKushwaha3232/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SatyamKushwaha3232/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
