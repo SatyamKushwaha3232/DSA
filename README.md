@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 125 |
-| Solved tracked in stats | 116 |
+| Total LeetCode problems | 124 |
+| Solved tracked in stats | 115 |
 | Easy | 31 |
-| Medium | 60 |
+| Medium | 59 |
 | Hard | 25 |
-| C++ LeetCode folders | 123 |
+| C++ LeetCode folders | 122 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 123 |
+| C++ solution files | 122 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-10-04 |
+| Last updated | 2026-10-02 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
-| 0022-generate-parentheses | [C++](DSA%20with%20CPP/LeetCode/0022-generate-parentheses) |
 | 0020-valid-parentheses | [C++](DSA%20with%20CPP/LeetCode/0020-valid-parentheses) |
 | 1111-maximum-nesting-depth-of-two-valid-parentheses-strings | [C++](DSA%20with%20CPP/LeetCode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | 2267-check-if-there-is-a-valid-parentheses-string-path | [C++](DSA%20with%20CPP/LeetCode/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | 1614-maximum-nesting-depth-of-the-parentheses | [C++](DSA%20with%20CPP/LeetCode/1614-maximum-nesting-depth-of-the-parentheses) |
+| 1190-reverse-substrings-between-each-pair-of-parentheses | [C++](DSA%20with%20CPP/LeetCode/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
@@ -208,6 +208,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0005-longest-palindromic-substring](https://github.com/SatyamKushwaha3232/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/SatyamKushwaha3232/DSA/tree/master/0115-distinct-subsequences) |
 | [0796-rotate-string](https://github.com/SatyamKushwaha3232/DSA/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -350,6 +351,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SatyamKushwaha3232/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0063-unique-paths-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/SatyamKushwaha3232/DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/SatyamKushwaha3232/DSA/tree/master/0115-distinct-subsequences) |
@@ -503,6 +505,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SatyamKushwaha3232/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SatyamKushwaha3232/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -685,6 +688,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | ------- |
 | [0020-valid-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SatyamKushwaha3232/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
