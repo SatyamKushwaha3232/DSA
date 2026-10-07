@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 127 |
-| Solved tracked in stats | 118 |
+| Total LeetCode problems | 128 |
+| Solved tracked in stats | 119 |
 | Easy | 31 |
-| Medium | 61 |
+| Medium | 62 |
 | Hard | 26 |
-| C++ LeetCode folders | 125 |
+| C++ LeetCode folders | 126 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 125 |
+| C++ solution files | 126 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-10-06 |
+| Last updated | 2026-10-07 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 0921-minimum-add-to-make-parentheses-valid | [C++](DSA%20with%20CPP/LeetCode/0921-minimum-add-to-make-parentheses-valid) |
 | 0678-valid-parenthesis-string | [C++](DSA%20with%20CPP/LeetCode/0678-valid-parenthesis-string) |
 | 0032-longest-valid-parentheses | [C++](DSA%20with%20CPP/LeetCode/0032-longest-valid-parentheses) |
 | 0022-generate-parentheses | [C++](DSA%20with%20CPP/LeetCode/0022-generate-parentheses) |
 | 0020-valid-parentheses | [C++](DSA%20with%20CPP/LeetCode/0020-valid-parentheses) |
-| 1111-maximum-nesting-depth-of-two-valid-parentheses-strings | [C++](DSA%20with%20CPP/LeetCode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
