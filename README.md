@@ -70,14 +70,14 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 128 |
-| Solved tracked in stats | 119 |
+| Total LeetCode problems | 129 |
+| Solved tracked in stats | 120 |
 | Easy | 31 |
 | Medium | 62 |
-| Hard | 26 |
-| C++ LeetCode folders | 126 |
+| Hard | 27 |
+| C++ LeetCode folders | 127 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 126 |
+| C++ solution files | 127 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 0301-remove-invalid-parentheses | [C++](DSA%20with%20CPP/LeetCode/0301-remove-invalid-parentheses) |
 | 0921-minimum-add-to-make-parentheses-valid | [C++](DSA%20with%20CPP/LeetCode/0921-minimum-add-to-make-parentheses-valid) |
 | 0678-valid-parenthesis-string | [C++](DSA%20with%20CPP/LeetCode/0678-valid-parenthesis-string) |
 | 0032-longest-valid-parentheses | [C++](DSA%20with%20CPP/LeetCode/0032-longest-valid-parentheses) |
 | 0022-generate-parentheses | [C++](DSA%20with%20CPP/LeetCode/0022-generate-parentheses) |
-| 0020-valid-parentheses | [C++](DSA%20with%20CPP/LeetCode/0020-valid-parentheses) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
