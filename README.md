@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 131 |
-| Solved tracked in stats | 122 |
+| Total LeetCode problems | 132 |
+| Solved tracked in stats | 123 |
 | Easy | 32 |
-| Medium | 63 |
+| Medium | 64 |
 | Hard | 27 |
-| C++ LeetCode folders | 129 |
+| C++ LeetCode folders | 130 |
 | Java LeetCode folders | 7 |
-| C++ solution files | 129 |
+| C++ solution files | 130 |
 | Java solution files | 7 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-10-10 |
+| Last updated | 2026-10-11 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 2333-minimum-sum-of-squared-difference | [C++](DSA%20with%20CPP/LeetCode/2333-minimum-sum-of-squared-difference) |
 | 1541-minimum-insertions-to-balance-a-parentheses-string | [C++](DSA%20with%20CPP/LeetCode/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | 1021-remove-outermost-parentheses | [C++](DSA%20with%20CPP/LeetCode/1021-remove-outermost-parentheses) |
 | 0301-remove-invalid-parentheses | [C++](DSA%20with%20CPP/LeetCode/0301-remove-invalid-parentheses) |
 | 0921-minimum-add-to-make-parentheses-valid | [C++](DSA%20with%20CPP/LeetCode/0921-minimum-add-to-make-parentheses-valid) |
-| 0678-valid-parenthesis-string | [C++](DSA%20with%20CPP/LeetCode/0678-valid-parenthesis-string) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
