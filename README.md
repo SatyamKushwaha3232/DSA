@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 133 |
-| Solved tracked in stats | 124 |
+| Total LeetCode problems | 134 |
+| Solved tracked in stats | 125 |
 | Easy | 33 |
 | Medium | 64 |
-| Hard | 27 |
+| Hard | 28 |
 | C++ LeetCode folders | 130 |
-| Java LeetCode folders | 8 |
+| Java LeetCode folders | 9 |
 | C++ solution files | 130 |
-| Java solution files | 8 |
+| Java solution files | 9 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-10-12 |
+| Last updated | 2026-10-13 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 2897-apply-operations-on-array-to-maximize-sum-of-squares | [Java](DSA%20with%20Java/LeetCode/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | 2778-sum-of-squares-of-special-elements | [Java](DSA%20with%20Java/LeetCode/2778-sum-of-squares-of-special-elements) |
 | 2333-minimum-sum-of-squared-difference | [C++](DSA%20with%20CPP/LeetCode/2333-minimum-sum-of-squared-difference) |
 | 1541-minimum-insertions-to-balance-a-parentheses-string | [C++](DSA%20with%20CPP/LeetCode/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | 1021-remove-outermost-parentheses | [C++](DSA%20with%20CPP/LeetCode/1021-remove-outermost-parentheses) |
-| 0301-remove-invalid-parentheses | [C++](DSA%20with%20CPP/LeetCode/0301-remove-invalid-parentheses) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
