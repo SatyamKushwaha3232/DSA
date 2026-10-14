@@ -258,6 +258,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SatyamKushwaha3232/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/SatyamKushwaha3232/DSA/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/0063-unique-paths-ii) |
+| [0189-rotate-array](https://github.com/SatyamKushwaha3232/DSA/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/SatyamKushwaha3232/DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/SatyamKushwaha3232/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SatyamKushwaha3232/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -348,6 +349,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SatyamKushwaha3232/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/SatyamKushwaha3232/DSA/tree/master/0061-rotate-list) |
+| [0189-rotate-array](https://github.com/SatyamKushwaha3232/DSA/tree/master/0189-rotate-array) |
 | [1861-rotating-the-box](https://github.com/SatyamKushwaha3232/DSA/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SatyamKushwaha3232/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SatyamKushwaha3232/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -450,6 +452,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | ------- |
 | [0048-rotate-image](https://github.com/SatyamKushwaha3232/DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/SatyamKushwaha3232/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/SatyamKushwaha3232/DSA/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/SatyamKushwaha3232/DSA/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/SatyamKushwaha3232/DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/SatyamKushwaha3232/DSA/tree/master/0486-predict-the-winner) |
