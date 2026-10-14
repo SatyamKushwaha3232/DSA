@@ -70,15 +70,15 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 135 |
-| Solved tracked in stats | 126 |
+| Total LeetCode problems | 136 |
+| Solved tracked in stats | 127 |
 | Easy | 33 |
-| Medium | 65 |
+| Medium | 66 |
 | Hard | 28 |
 | C++ LeetCode folders | 130 |
-| Java LeetCode folders | 10 |
+| Java LeetCode folders | 11 |
 | C++ solution files | 130 |
-| Java solution files | 10 |
+| Java solution files | 11 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
 | Last updated | 2026-10-14 |
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3723-maximize-sum-of-squares-of-digits | [Java](DSA%20with%20Java/LeetCode/3723-maximize-sum-of-squares-of-digits) |
 | 3727-maximum-alternating-sum-of-squares | [Java](DSA%20with%20Java/LeetCode/3727-maximum-alternating-sum-of-squares) |
 | 2897-apply-operations-on-array-to-maximize-sum-of-squares | [Java](DSA%20with%20Java/LeetCode/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | 2778-sum-of-squares-of-special-elements | [Java](DSA%20with%20Java/LeetCode/2778-sum-of-squares-of-special-elements) |
 | 2333-minimum-sum-of-squared-difference | [C++](DSA%20with%20CPP/LeetCode/2333-minimum-sum-of-squared-difference) |
-| 1541-minimum-insertions-to-balance-a-parentheses-string | [C++](DSA%20with%20CPP/LeetCode/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
