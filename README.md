@@ -70,15 +70,15 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 138 |
-| Solved tracked in stats | 129 |
+| Total LeetCode problems | 139 |
+| Solved tracked in stats | 130 |
 | Easy | 34 |
-| Medium | 67 |
+| Medium | 68 |
 | Hard | 28 |
 | C++ LeetCode folders | 131 |
-| Java LeetCode folders | 12 |
+| Java LeetCode folders | 13 |
 | C++ solution files | 131 |
-| Java solution files | 12 |
+| Java solution files | 13 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
 | Last updated | 2026-10-17 |
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3551-minimum-swaps-to-sort-by-digit-sum | [Java](DSA%20with%20Java/LeetCode/3551-minimum-swaps-to-sort-by-digit-sum) |
 | 2913-subarrays-distinct-element-sum-of-squares-i | [Java](DSA%20with%20Java/LeetCode/2913-subarrays-distinct-element-sum-of-squares-i) |
 | 0189-rotate-array | [C++](DSA%20with%20CPP/LeetCode/0189-rotate-array) |
 | 3723-maximize-sum-of-squares-of-digits | [Java](DSA%20with%20Java/LeetCode/3723-maximize-sum-of-squares-of-digits) |
 | 3727-maximum-alternating-sum-of-squares | [Java](DSA%20with%20Java/LeetCode/3727-maximum-alternating-sum-of-squares) |
-| 2897-apply-operations-on-array-to-maximize-sum-of-squares | [Java](DSA%20with%20Java/LeetCode/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
