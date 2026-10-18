@@ -272,6 +272,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [1331-rank-transform-of-an-array](https://github.com/SatyamKushwaha3232/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SatyamKushwaha3232/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SatyamKushwaha3232/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyamKushwaha3232/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1732-find-the-highest-altitude](https://github.com/SatyamKushwaha3232/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SatyamKushwaha3232/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/SatyamKushwaha3232/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -348,6 +349,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SatyamKushwaha3232/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyamKushwaha3232/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -384,6 +386,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [1137-n-th-tribonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/SatyamKushwaha3232/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SatyamKushwaha3232/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyamKushwaha3232/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SatyamKushwaha3232/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/SatyamKushwaha3232/DSA/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SatyamKushwaha3232/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -470,6 +473,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [1137-n-th-tribonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SatyamKushwaha3232/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SatyamKushwaha3232/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyamKushwaha3232/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SatyamKushwaha3232/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1840-maximum-building-height](https://github.com/SatyamKushwaha3232/DSA/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/SatyamKushwaha3232/DSA/tree/master/1872-stone-game-viii) |
@@ -560,6 +564,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 ## Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyamKushwaha3232/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SatyamKushwaha3232/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SatyamKushwaha3232/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -625,6 +630,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyamKushwaha3232/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SatyamKushwaha3232/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SatyamKushwaha3232/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -660,6 +666,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 ## Binary Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyamKushwaha3232/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SatyamKushwaha3232/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SatyamKushwaha3232/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Topological Sort
@@ -691,6 +698,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0070-climbing-stairs](https://github.com/SatyamKushwaha3232/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyamKushwaha3232/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brainteaser
 |  |
 | ------- |
@@ -698,6 +706,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyamKushwaha3232/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SatyamKushwaha3232/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SatyamKushwaha3232/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SatyamKushwaha3232/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -749,5 +758,13 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyamKushwaha3232/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyamKushwaha3232/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
 
