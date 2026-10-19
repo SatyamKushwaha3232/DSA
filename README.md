@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 140 |
-| Solved tracked in stats | 130 |
+| Total LeetCode problems | 141 |
+| Solved tracked in stats | 132 |
 | Easy | 34 |
 | Medium | 68 |
-| Hard | 28 |
+| Hard | 30 |
 | C++ LeetCode folders | 131 |
-| Java LeetCode folders | 14 |
+| Java LeetCode folders | 15 |
 | C++ solution files | 131 |
-| Java solution files | 14 |
+| Java solution files | 15 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-10-18 |
+| Last updated | 2026-10-19 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 2916-subarrays-distinct-element-sum-of-squares-ii | [Java](DSA%20with%20Java/LeetCode/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| 1569-number-of-ways-to-reorder-array-to-get-same-bst | [Java](DSA%20with%20Java/LeetCode/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | 3551-minimum-swaps-to-sort-by-digit-sum | [Java](DSA%20with%20Java/LeetCode/3551-minimum-swaps-to-sort-by-digit-sum) |
 | 2913-subarrays-distinct-element-sum-of-squares-i | [Java](DSA%20with%20Java/LeetCode/2913-subarrays-distinct-element-sum-of-squares-i) |
 | 0189-rotate-array | [C++](DSA%20with%20CPP/LeetCode/0189-rotate-array) |
-| 3723-maximize-sum-of-squares-of-digits | [Java](DSA%20with%20Java/LeetCode/3723-maximize-sum-of-squares-of-digits) |
-| 3727-maximum-alternating-sum-of-squares | [Java](DSA%20with%20Java/LeetCode/3727-maximum-alternating-sum-of-squares) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
