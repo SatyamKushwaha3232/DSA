@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 144 |
-| Solved tracked in stats | 134 |
+| Total LeetCode problems | 145 |
+| Solved tracked in stats | 135 |
 | Easy | 35 |
-| Medium | 68 |
+| Medium | 69 |
 | Hard | 31 |
-| C++ LeetCode folders | 131 |
+| C++ LeetCode folders | 132 |
 | Java LeetCode folders | 18 |
-| C++ solution files | 131 |
+| C++ solution files | 132 |
 | Java solution files | 18 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-10-21 |
+| Last updated | 2026-10-22 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3863-minimum-operations-to-sort-a-string | [Java](DSA%20with%20Java/LeetCode/3863-minimum-operations-to-sort-a-string) |
 | 3886-sum-of-sortable-integers | [Java](DSA%20with%20Java/LeetCode/3886-sum-of-sortable-integers) |
 | 2089-find-target-indices-after-sorting-array | [Java](DSA%20with%20Java/LeetCode/2089-find-target-indices-after-sorting-array) |
 | 2916-subarrays-distinct-element-sum-of-squares-ii | [Java](DSA%20with%20Java/LeetCode/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | 1569-number-of-ways-to-reorder-array-to-get-same-bst | [Java](DSA%20with%20Java/LeetCode/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-| 3551-minimum-swaps-to-sort-by-digit-sum | [Java](DSA%20with%20Java/LeetCode/3551-minimum-swaps-to-sort-by-digit-sum) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
