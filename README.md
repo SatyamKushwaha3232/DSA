@@ -231,6 +231,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SatyamKushwaha3232/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/SatyamKushwaha3232/DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatyamKushwaha3232/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/SatyamKushwaha3232/DSA/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SatyamKushwaha3232/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SatyamKushwaha3232/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -487,6 +488,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [1872-stone-game-viii](https://github.com/SatyamKushwaha3232/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/SatyamKushwaha3232/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SatyamKushwaha3232/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/SatyamKushwaha3232/DSA/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SatyamKushwaha3232/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SatyamKushwaha3232/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SatyamKushwaha3232/DSA/tree/master/3312-sorted-gcd-pair-queries) |
