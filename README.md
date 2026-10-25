@@ -472,6 +472,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SatyamKushwaha3232/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/SatyamKushwaha3232/DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/SatyamKushwaha3232/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SatyamKushwaha3232/DSA/tree/master/0189-rotate-array) |
