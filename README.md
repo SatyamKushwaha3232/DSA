@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 147 |
-| Solved tracked in stats | 137 |
-| Easy | 35 |
+| Total LeetCode problems | 148 |
+| Solved tracked in stats | 138 |
+| Easy | 36 |
 | Medium | 71 |
 | Hard | 31 |
-| C++ LeetCode folders | 133 |
+| C++ LeetCode folders | 134 |
 | Java LeetCode folders | 19 |
-| C++ solution files | 133 |
+| C++ solution files | 134 |
 | Java solution files | 19 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-10-24 |
+| Last updated | 2026-10-25 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 2409-count-days-spent-together | [C++](DSA%20with%20CPP/LeetCode/2409-count-days-spent-together) |
 | 3644-maximum-k-to-sort-a-permutation | [Java](DSA%20with%20Java/LeetCode/3644-maximum-k-to-sort-a-permutation) |
 | 3942-minimum-operations-to-sort-a-permutation | [C++](DSA%20with%20CPP/LeetCode/3942-minimum-operations-to-sort-a-permutation) |
 | 3863-minimum-operations-to-sort-a-string | [Java](DSA%20with%20Java/LeetCode/3863-minimum-operations-to-sort-a-string) |
 | 3886-sum-of-sortable-integers | [Java](DSA%20with%20Java/LeetCode/3886-sum-of-sortable-integers) |
-| 2089-find-target-indices-after-sorting-array | [Java](DSA%20with%20Java/LeetCode/2089-find-target-indices-after-sorting-array) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
