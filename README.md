@@ -71,9 +71,9 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 148 |
-| Solved tracked in stats | 138 |
+| Solved tracked in stats | 139 |
 | Easy | 36 |
-| Medium | 71 |
+| Medium | 72 |
 | Hard | 31 |
 | C++ LeetCode folders | 134 |
 | Java LeetCode folders | 19 |
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 1254-number-of-closed-islands | [C++](DSA%20with%20CPP/LeetCode/1254-number-of-closed-islands) |
 | 2409-count-days-spent-together | [C++](DSA%20with%20CPP/LeetCode/2409-count-days-spent-together) |
 | 3644-maximum-k-to-sort-a-permutation | [Java](DSA%20with%20Java/LeetCode/3644-maximum-k-to-sort-a-permutation) |
 | 3942-minimum-operations-to-sort-a-permutation | [C++](DSA%20with%20CPP/LeetCode/3942-minimum-operations-to-sort-a-permutation) |
 | 3863-minimum-operations-to-sort-a-string | [Java](DSA%20with%20Java/LeetCode/3863-minimum-operations-to-sort-a-string) |
-| 3886-sum-of-sortable-integers | [Java](DSA%20with%20Java/LeetCode/3886-sum-of-sortable-integers) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
