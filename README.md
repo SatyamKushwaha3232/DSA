@@ -266,6 +266,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0048-rotate-image](https://github.com/SatyamKushwaha3232/DSA/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/0063-unique-paths-ii) |
 | [0189-rotate-array](https://github.com/SatyamKushwaha3232/DSA/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/SatyamKushwaha3232/DSA/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/SatyamKushwaha3232/DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/SatyamKushwaha3232/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SatyamKushwaha3232/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -386,6 +387,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0063-unique-paths-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/SatyamKushwaha3232/DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/SatyamKushwaha3232/DSA/tree/master/0115-distinct-subsequences) |
+| [0198-house-robber](https://github.com/SatyamKushwaha3232/DSA/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/SatyamKushwaha3232/DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/SatyamKushwaha3232/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/0509-fibonacci-number) |
