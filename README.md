@@ -71,9 +71,9 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 150 |
-| Solved tracked in stats | 140 |
+| Solved tracked in stats | 141 |
 | Easy | 37 |
-| Medium | 72 |
+| Medium | 73 |
 | Hard | 31 |
 | C++ LeetCode folders | 136 |
 | Java LeetCode folders | 19 |
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 0007-reverse-integer | [C++](DSA%20with%20CPP/LeetCode/0007-reverse-integer) |
 | 0001-two-sum | [C++](DSA%20with%20CPP/LeetCode/0001-two-sum) |
 | 1254-number-of-closed-islands | [C++](DSA%20with%20CPP/LeetCode/1254-number-of-closed-islands) |
 | 2409-count-days-spent-together | [C++](DSA%20with%20CPP/LeetCode/2409-count-days-spent-together) |
 | 3644-maximum-k-to-sort-a-permutation | [Java](DSA%20with%20Java/LeetCode/3644-maximum-k-to-sort-a-permutation) |
-| 3942-minimum-operations-to-sort-a-permutation | [C++](DSA%20with%20CPP/LeetCode/3942-minimum-operations-to-sort-a-permutation) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
