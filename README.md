@@ -76,9 +76,9 @@ Each problem folder may include:
 | Medium | 74 |
 | Hard | 31 |
 | C++ LeetCode folders | 137 |
-| Java LeetCode folders | 19 |
+| Java LeetCode folders | 20 |
 | C++ solution files | 137 |
-| Java solution files | 19 |
+| Java solution files | 20 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
 | Last updated | 2026-10-26 |
