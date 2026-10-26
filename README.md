@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 150 |
-| Solved tracked in stats | 141 |
+| Total LeetCode problems | 151 |
+| Solved tracked in stats | 142 |
 | Easy | 37 |
-| Medium | 73 |
+| Medium | 74 |
 | Hard | 31 |
-| C++ LeetCode folders | 136 |
+| C++ LeetCode folders | 137 |
 | Java LeetCode folders | 19 |
-| C++ solution files | 136 |
+| C++ solution files | 137 |
 | Java solution files | 19 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-10-25 |
+| Last updated | 2026-10-26 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 0198-house-robber | [C++](DSA%20with%20CPP/LeetCode/0198-house-robber) |
 | 0007-reverse-integer | [C++](DSA%20with%20CPP/LeetCode/0007-reverse-integer) |
 | 0001-two-sum | [C++](DSA%20with%20CPP/LeetCode/0001-two-sum) |
 | 1254-number-of-closed-islands | [C++](DSA%20with%20CPP/LeetCode/1254-number-of-closed-islands) |
 | 2409-count-days-spent-together | [C++](DSA%20with%20CPP/LeetCode/2409-count-days-spent-together) |
-| 3644-maximum-k-to-sort-a-permutation | [Java](DSA%20with%20Java/LeetCode/3644-maximum-k-to-sort-a-permutation) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
