@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 152 |
-| Solved tracked in stats | 143 |
+| Total LeetCode problems | 153 |
+| Solved tracked in stats | 144 |
 | Easy | 37 |
-| Medium | 75 |
+| Medium | 76 |
 | Hard | 31 |
-| C++ LeetCode folders | 138 |
+| C++ LeetCode folders | 139 |
 | Java LeetCode folders | 20 |
-| C++ solution files | 138 |
+| C++ solution files | 139 |
 | Java solution files | 20 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-10-26 |
+| Last updated | 2026-10-27 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3619-count-islands-with-total-value-divisible-by-k | [C++](DSA%20with%20CPP/LeetCode/3619-count-islands-with-total-value-divisible-by-k) |
 | 0198-house-robber | [C++](DSA%20with%20CPP/LeetCode/0198-house-robber) |
 | 0007-reverse-integer | [C++](DSA%20with%20CPP/LeetCode/0007-reverse-integer) |
 | 0001-two-sum | [C++](DSA%20with%20CPP/LeetCode/0001-two-sum) |
 | 1254-number-of-closed-islands | [C++](DSA%20with%20CPP/LeetCode/1254-number-of-closed-islands) |
-| 2409-count-days-spent-together | [C++](DSA%20with%20CPP/LeetCode/2409-count-days-spent-together) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
