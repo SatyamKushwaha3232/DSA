@@ -71,9 +71,9 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 154 |
-| Solved tracked in stats | 145 |
+| Solved tracked in stats | 146 |
 | Easy | 38 |
-| Medium | 76 |
+| Medium | 77 |
 | Hard | 31 |
 | C++ LeetCode folders | 140 |
 | Java LeetCode folders | 20 |
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3882-minimum-xor-path-in-a-grid | [C++](DSA%20with%20CPP/LeetCode/3882-minimum-xor-path-in-a-grid) |
 | 3963-create-grid-with-exactly-one-path | [C++](DSA%20with%20CPP/LeetCode/3963-create-grid-with-exactly-one-path) |
 | 3619-count-islands-with-total-value-divisible-by-k | [C++](DSA%20with%20CPP/LeetCode/3619-count-islands-with-total-value-divisible-by-k) |
 | 0198-house-robber | [C++](DSA%20with%20CPP/LeetCode/0198-house-robber) |
 | 0007-reverse-integer | [C++](DSA%20with%20CPP/LeetCode/0007-reverse-integer) |
-| 0001-two-sum | [C++](DSA%20with%20CPP/LeetCode/0001-two-sum) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
