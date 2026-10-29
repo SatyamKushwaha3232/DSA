@@ -266,6 +266,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SatyamKushwaha3232/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/SatyamKushwaha3232/DSA/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/SatyamKushwaha3232/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/SatyamKushwaha3232/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SatyamKushwaha3232/DSA/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/SatyamKushwaha3232/DSA/tree/master/0396-rotate-function) |
@@ -484,6 +485,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0009-palindrome-number](https://github.com/SatyamKushwaha3232/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/SatyamKushwaha3232/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/SatyamKushwaha3232/DSA/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/SatyamKushwaha3232/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SatyamKushwaha3232/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SatyamKushwaha3232/DSA/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/SatyamKushwaha3232/DSA/tree/master/0319-bulb-switcher) |
