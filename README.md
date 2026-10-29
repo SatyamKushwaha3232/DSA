@@ -71,8 +71,8 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 156 |
-| Solved tracked in stats | 146 |
-| Easy | 38 |
+| Solved tracked in stats | 148 |
+| Easy | 40 |
 | Medium | 77 |
 | Hard | 31 |
 | C++ LeetCode folders | 142 |
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 0026-remove-duplicates-from-sorted-array | [C++](DSA%20with%20CPP/LeetCode/0026-remove-duplicates-from-sorted-array) |
+| 0009-palindrome-number | [C++](DSA%20with%20CPP/LeetCode/0009-palindrome-number) |
 | 3882-minimum-xor-path-in-a-grid | [C++](DSA%20with%20CPP/LeetCode/3882-minimum-xor-path-in-a-grid) |
 | 3963-create-grid-with-exactly-one-path | [C++](DSA%20with%20CPP/LeetCode/3963-create-grid-with-exactly-one-path) |
 | 3619-count-islands-with-total-value-divisible-by-k | [C++](DSA%20with%20CPP/LeetCode/3619-count-islands-with-total-value-divisible-by-k) |
-| 0198-house-robber | [C++](DSA%20with%20CPP/LeetCode/0198-house-robber) |
-| 0007-reverse-integer | [C++](DSA%20with%20CPP/LeetCode/0007-reverse-integer) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
