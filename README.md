@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 157 |
-| Solved tracked in stats | 149 |
+| Total LeetCode problems | 158 |
+| Solved tracked in stats | 150 |
 | Easy | 41 |
 | Medium | 77 |
-| Hard | 31 |
-| C++ LeetCode folders | 143 |
+| Hard | 32 |
+| C++ LeetCode folders | 144 |
 | Java LeetCode folders | 20 |
-| C++ solution files | 143 |
+| C++ solution files | 144 |
 | Java solution files | 20 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-11-04 |
+| Last updated | 2026-11-05 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3505-minimum-operations-to-make-elements-within-k-subarrays-equal | [C++](DSA%20with%20CPP/LeetCode/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | 0066-plus-one | [C++](DSA%20with%20CPP/LeetCode/0066-plus-one) |
 | 0026-remove-duplicates-from-sorted-array | [C++](DSA%20with%20CPP/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | 0009-palindrome-number | [C++](DSA%20with%20CPP/LeetCode/0009-palindrome-number) |
 | 3882-minimum-xor-path-in-a-grid | [C++](DSA%20with%20CPP/LeetCode/3882-minimum-xor-path-in-a-grid) |
-| 3963-create-grid-with-exactly-one-path | [C++](DSA%20with%20CPP/LeetCode/3963-create-grid-with-exactly-one-path) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
