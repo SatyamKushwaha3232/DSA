@@ -71,9 +71,9 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 160 |
-| Solved tracked in stats | 150 |
+| Solved tracked in stats | 151 |
 | Easy | 41 |
-| Medium | 77 |
+| Medium | 78 |
 | Hard | 32 |
 | C++ LeetCode folders | 146 |
 | Java LeetCode folders | 20 |
@@ -81,7 +81,7 @@ Each problem folder may include:
 | Java solution files | 20 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-11-06 |
+| Last updated | 2026-11-07 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 2747-count-zero-request-servers | [C++](DSA%20with%20CPP/LeetCode/2747-count-zero-request-servers) |
+| 1385-find-the-distance-value-between-two-arrays | [C++](DSA%20with%20CPP/LeetCode/1385-find-the-distance-value-between-two-arrays) |
 | 3505-minimum-operations-to-make-elements-within-k-subarrays-equal | [C++](DSA%20with%20CPP/LeetCode/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | 0066-plus-one | [C++](DSA%20with%20CPP/LeetCode/0066-plus-one) |
 | 0026-remove-duplicates-from-sorted-array | [C++](DSA%20with%20CPP/LeetCode/0026-remove-duplicates-from-sorted-array) |
-| 0009-palindrome-number | [C++](DSA%20with%20CPP/LeetCode/0009-palindrome-number) |
-| 3882-minimum-xor-path-in-a-grid | [C++](DSA%20with%20CPP/LeetCode/3882-minimum-xor-path-in-a-grid) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
