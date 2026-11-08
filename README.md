@@ -254,6 +254,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/SatyamKushwaha3232/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/SatyamKushwaha3232/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SatyamKushwaha3232/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -277,6 +278,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0746-min-cost-climbing-stairs](https://github.com/SatyamKushwaha3232/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1254-number-of-closed-islands](https://github.com/SatyamKushwaha3232/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/SatyamKushwaha3232/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/SatyamKushwaha3232/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SatyamKushwaha3232/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/SatyamKushwaha3232/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -610,6 +612,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/SatyamKushwaha3232/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SatyamKushwaha3232/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SatyamKushwaha3232/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SatyamKushwaha3232/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SatyamKushwaha3232/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -666,6 +669,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/SatyamKushwaha3232/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/SatyamKushwaha3232/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SatyamKushwaha3232/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SatyamKushwaha3232/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SatyamKushwaha3232/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -677,6 +681,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/SatyamKushwaha3232/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SatyamKushwaha3232/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyamKushwaha3232/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SatyamKushwaha3232/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SatyamKushwaha3232/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -691,6 +696,7 @@ GitHub: [SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 | [0063-unique-paths-ii](https://github.com/SatyamKushwaha3232/DSA/tree/master/0063-unique-paths-ii) |
 | [1254-number-of-closed-islands](https://github.com/SatyamKushwaha3232/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/SatyamKushwaha3232/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/SatyamKushwaha3232/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/SatyamKushwaha3232/DSA/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/SatyamKushwaha3232/DSA/tree/master/1914-cyclically-rotating-a-grid) |
