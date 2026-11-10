@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 162 |
-| Solved tracked in stats | 152 |
+| Total LeetCode problems | 163 |
+| Solved tracked in stats | 153 |
 | Easy | 41 |
-| Medium | 79 |
+| Medium | 80 |
 | Hard | 32 |
-| C++ LeetCode folders | 148 |
+| C++ LeetCode folders | 149 |
 | Java LeetCode folders | 20 |
-| C++ solution files | 148 |
+| C++ solution files | 149 |
 | Java solution files | 20 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-11-08 |
+| Last updated | 2026-11-10 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 1267-count-servers-that-communicate | [C++](DSA%20with%20CPP/LeetCode/1267-count-servers-that-communicate) |
 | 1882-process-tasks-using-servers | [C++](DSA%20with%20CPP/LeetCode/1882-process-tasks-using-servers) |
 | 2747-count-zero-request-servers | [C++](DSA%20with%20CPP/LeetCode/2747-count-zero-request-servers) |
 | 1385-find-the-distance-value-between-two-arrays | [C++](DSA%20with%20CPP/LeetCode/1385-find-the-distance-value-between-two-arrays) |
 | 3505-minimum-operations-to-make-elements-within-k-subarrays-equal | [C++](DSA%20with%20CPP/LeetCode/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
-| 0066-plus-one | [C++](DSA%20with%20CPP/LeetCode/0066-plus-one) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
