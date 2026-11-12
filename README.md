@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 163 |
-| Solved tracked in stats | 154 |
+| Total LeetCode problems | 165 |
+| Solved tracked in stats | 155 |
 | Easy | 41 |
-| Medium | 81 |
+| Medium | 82 |
 | Hard | 32 |
-| C++ LeetCode folders | 149 |
+| C++ LeetCode folders | 151 |
 | Java LeetCode folders | 20 |
-| C++ solution files | 149 |
+| C++ solution files | 151 |
 | Java solution files | 20 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-11-11 |
+| Last updated | 2026-11-12 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3789-minimum-cost-to-acquire-required-items | [C++](DSA%20with%20CPP/LeetCode/3789-minimum-cost-to-acquire-required-items) |
 | 3693-climbing-stairs-ii | [C++](DSA%20with%20CPP/LeetCode/3693-climbing-stairs-ii) |
 | 1267-count-servers-that-communicate | [C++](DSA%20with%20CPP/LeetCode/1267-count-servers-that-communicate) |
 | 1882-process-tasks-using-servers | [C++](DSA%20with%20CPP/LeetCode/1882-process-tasks-using-servers) |
 | 2747-count-zero-request-servers | [C++](DSA%20with%20CPP/LeetCode/2747-count-zero-request-servers) |
-| 1385-find-the-distance-value-between-two-arrays | [C++](DSA%20with%20CPP/LeetCode/1385-find-the-distance-value-between-two-arrays) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
