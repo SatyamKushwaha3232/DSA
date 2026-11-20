@@ -71,17 +71,17 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 166 |
-| Solved tracked in stats | 155 |
+| Solved tracked in stats | 156 |
 | Easy | 41 |
 | Medium | 82 |
-| Hard | 32 |
+| Hard | 33 |
 | C++ LeetCode folders | 152 |
 | Java LeetCode folders | 20 |
 | C++ solution files | 152 |
 | Java solution files | 20 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-11-13 |
+| Last updated | 2026-11-20 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3420-count-non-decreasing-subarrays-after-k-operations | [C++](DSA%20with%20CPP/LeetCode/3420-count-non-decreasing-subarrays-after-k-operations) |
+| 3105-longest-strictly-increasing-or-strictly-decreasing-subarray | [C++](DSA%20with%20CPP/LeetCode/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | 3789-minimum-cost-to-acquire-required-items | [C++](DSA%20with%20CPP/LeetCode/3789-minimum-cost-to-acquire-required-items) |
 | 3693-climbing-stairs-ii | [C++](DSA%20with%20CPP/LeetCode/3693-climbing-stairs-ii) |
 | 1267-count-servers-that-communicate | [C++](DSA%20with%20CPP/LeetCode/1267-count-servers-that-communicate) |
-| 1882-process-tasks-using-servers | [C++](DSA%20with%20CPP/LeetCode/1882-process-tasks-using-servers) |
-| 2747-count-zero-request-servers | [C++](DSA%20with%20CPP/LeetCode/2747-count-zero-request-servers) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
