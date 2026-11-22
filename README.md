@@ -70,18 +70,18 @@ Each problem folder may include:
 <!-- AUTO-STATS:START -->
 | Category | Count |
 | --- | ---: |
-| Total LeetCode problems | 168 |
-| Solved tracked in stats | 157 |
+| Total LeetCode problems | 169 |
+| Solved tracked in stats | 158 |
 | Easy | 41 |
-| Medium | 82 |
+| Medium | 83 |
 | Hard | 34 |
-| C++ LeetCode folders | 154 |
+| C++ LeetCode folders | 155 |
 | Java LeetCode folders | 20 |
-| C++ solution files | 154 |
+| C++ solution files | 155 |
 | Java solution files | 20 |
 | Sorting implementations | 2 |
 | Pattern practice files | 1 |
-| Last updated | 2026-11-21 |
+| Last updated | 2026-11-22 |
 <!-- AUTO-STATS:END -->
 
 ## Latest LeetCode Additions
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 3331-find-subtree-sizes-after-changes | [C++](DSA%20with%20CPP/LeetCode/3331-find-subtree-sizes-after-changes) |
 | 3041-maximize-consecutive-elements-in-an-array-after-modification | [C++](DSA%20with%20CPP/LeetCode/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | 3420-count-non-decreasing-subarrays-after-k-operations | [C++](DSA%20with%20CPP/LeetCode/3420-count-non-decreasing-subarrays-after-k-operations) |
 | 3105-longest-strictly-increasing-or-strictly-decreasing-subarray | [C++](DSA%20with%20CPP/LeetCode/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | 3789-minimum-cost-to-acquire-required-items | [C++](DSA%20with%20CPP/LeetCode/3789-minimum-cost-to-acquire-required-items) |
-| 3693-climbing-stairs-ii | [C++](DSA%20with%20CPP/LeetCode/3693-climbing-stairs-ii) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
