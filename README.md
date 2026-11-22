@@ -71,8 +71,8 @@ Each problem folder may include:
 | Category | Count |
 | --- | ---: |
 | Total LeetCode problems | 169 |
-| Solved tracked in stats | 158 |
-| Easy | 41 |
+| Solved tracked in stats | 159 |
+| Easy | 42 |
 | Medium | 83 |
 | Hard | 34 |
 | C++ LeetCode folders | 155 |
@@ -89,11 +89,11 @@ Each problem folder may include:
 <!-- LATEST-PROBLEMS:START -->
 | Problem | Solution |
 | --- | --- |
+| 2124-check-if-all-as-appears-before-all-bs | [C++](DSA%20with%20CPP/LeetCode/2124-check-if-all-as-appears-before-all-bs) |
 | 3331-find-subtree-sizes-after-changes | [C++](DSA%20with%20CPP/LeetCode/3331-find-subtree-sizes-after-changes) |
 | 3041-maximize-consecutive-elements-in-an-array-after-modification | [C++](DSA%20with%20CPP/LeetCode/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | 3420-count-non-decreasing-subarrays-after-k-operations | [C++](DSA%20with%20CPP/LeetCode/3420-count-non-decreasing-subarrays-after-k-operations) |
 | 3105-longest-strictly-increasing-or-strictly-decreasing-subarray | [C++](DSA%20with%20CPP/LeetCode/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
-| 3789-minimum-cost-to-acquire-required-items | [C++](DSA%20with%20CPP/LeetCode/3789-minimum-cost-to-acquire-required-items) |
 <!-- LATEST-PROBLEMS:END -->
 
 ## Learning Roadmap
